@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>ITT2008.itt.ConnExec</TITLE>
+</HEAD>
+<BODY>
+<B><A HREF="ITT2008_itt.htm">Интерфейс itt</A> </B><B><A HREF="ITT2008.htm">Компонент ITT2008</A> </B><HR>
+<H1 > itt.ConnExec</H1>
+
+<P>
+<H2 > <I>Public Function ConnExec(ByVal sqlstring As String, ByRef conn As ADODB.Connection) As ADODB.Recordset</I></H2>
+<P><BR>
+ Выполнить запрос<BR>
+ <P><H3>Параметры (Parameters)</H3><BR>
+ [IN]   sqlstring , тип параметра: String - строка запроса,<BR>
+ [IN][OUT]   conn , тип параметра: ADODB.Connection  - коннект к базе CORE<BR>
+ <P><H3>Возвращает (Returns)</H3><BR>
+   объект класса ADODB.Recordset<BR>
+   ,или Nothing<BR>
+ <P><H3>Смотри также (See Also)</H3><UL><LI><A HREF="ITT2008_itt_CleanRCVAtCore.htm">CleanRCVAtCore</A> <BR>
+<LI><A HREF="ITT2008_itt_FindPoddon.htm">FindPoddon</A> <BR>
+<LI><A HREF="ITT2008_itt_GetBRIEFFromXMLField.htm">GetBRIEFFromXMLField</A> <BR>
+<LI><A HREF="ITT2008_itt_MyRound.htm">MyRound</A> <BR>
+<LI><A HREF="ITT2008_itt_MyRound2.htm">MyRound2</A> <BR>
+<LI><A HREF="ITT2008_itt_PrintSticker.htm">PrintSticker</A> <BR>
+<LI><A HREF="ITT2008_itt_SaveRCVRowToCore.htm">SaveRCVRowToCore</A> <BR>
+<LI><A HREF="ITT2008_itt_SaveShipRowToCore.htm">SaveShipRowToCore</A> <BR>
+<LI><A HREF="ITT2008_itt_UpdateMyPalet.htm">UpdateMyPalet</A> <BR>
+</UL><BR>
+<P><H3>Пример (Example)</H3><BR>
+  dim variable as ADODB.Recordset<BR>
+  Set variable = me.ConnExec(...параметры...)<BR>
+
+
+<HR>
+<B><A HREF="ITT2008_itt.htm">Интерфейс itt</A> </B><B><A HREF="ITT2008.htm">Компонент ITT2008</A> </B>
+</BODY>
+</HTML>

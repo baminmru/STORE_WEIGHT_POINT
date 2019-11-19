@@ -1,0 +1,494 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZUtil">
+<param name="Local" value="MTZUtil.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BaseItem">
+<param name="Local" value="MTZUtil_BaseItem.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="MTZUtil_BaseItem_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseParents">
+<param name="Local" value="MTZUtil_BaseItem_CloseParents.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="MTZUtil_BaseItem_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="MTZUtil_BaseItem_Parent.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FIOUtils">
+<param name="Local" value="MTZUtil_FIOUtils.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strFirstName1">
+<param name="Local" value="MTZUtil_FIOUtils_strFirstName1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strFirstName2">
+<param name="Local" value="MTZUtil_FIOUtils_strFirstName2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strFirstName3">
+<param name="Local" value="MTZUtil_FIOUtils_strFirstName3.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strFirstName4">
+<param name="Local" value="MTZUtil_FIOUtils_strFirstName4.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strFirstName5">
+<param name="Local" value="MTZUtil_FIOUtils_strFirstName5.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strLastName1">
+<param name="Local" value="MTZUtil_FIOUtils_strLastName1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strLastName2">
+<param name="Local" value="MTZUtil_FIOUtils_strLastName2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strLastName3">
+<param name="Local" value="MTZUtil_FIOUtils_strLastName3.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strLastName4">
+<param name="Local" value="MTZUtil_FIOUtils_strLastName4.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strLastName5">
+<param name="Local" value="MTZUtil_FIOUtils_strLastName5.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strName1">
+<param name="Local" value="MTZUtil_FIOUtils_strName1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strName2">
+<param name="Local" value="MTZUtil_FIOUtils_strName2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strName3">
+<param name="Local" value="MTZUtil_FIOUtils_strName3.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strName4">
+<param name="Local" value="MTZUtil_FIOUtils_strName4.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="strName5">
+<param name="Local" value="MTZUtil_FIOUtils_strName5.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IDCash">
+<param name="Local" value="MTZUtil_IDCash.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="MTZUtil_IDCash_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="MTZUtil_IDCash_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="MTZUtil_IDCash_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="MTZUtil_IDCash_Remove.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IDCashItem">
+<param name="Local" value="MTZUtil_IDCashItem.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="MTZUtil_IDCashItem_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="MTZUtil_IDCashItem_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="MTZUtil_IDCashItem_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="MTZUtil_IDCashItem_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsNew">
+<param name="Local" value="MTZUtil_IDCashItem_IsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Loaddate">
+<param name="Local" value="MTZUtil_IDCashItem_Loaddate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Locked">
+<param name="Local" value="MTZUtil_IDCashItem_Locked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StructID">
+<param name="Local" value="MTZUtil_IDCashItem_StructID.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LOGGER">
+<param name="Local" value="MTZUtil_LOGGER.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CreateLog">
+<param name="Local" value="MTZUtil_LOGGER_CreateLog.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message">
+<param name="Local" value="MTZUtil_LOGGER_Message.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NamedValue">
+<param name="Local" value="MTZUtil_NamedValue.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ORACLE_GUID">
+<param name="Local" value="MTZUtil_NamedValue_ORACLE_GUID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheName">
+<param name="Local" value="MTZUtil_NamedValue_TheName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Value">
+<param name="Local" value="MTZUtil_NamedValue_Value.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ValueDirection">
+<param name="Local" value="MTZUtil_NamedValue_ValueDirection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ValueSize">
+<param name="Local" value="MTZUtil_NamedValue_ValueSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ValueType">
+<param name="Local" value="MTZUtil_NamedValue_ValueType.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NamedValues">
+<param name="Local" value="MTZUtil_NamedValues.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="MTZUtil_NamedValues_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="MTZUtil_NamedValues_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="MTZUtil_NamedValues_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemByValueIndex">
+<param name="Local" value="MTZUtil_NamedValues_ItemByValueIndex.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="MTZUtil_NamedValues_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SortValues">
+<param name="Local" value="MTZUtil_NamedValues_SortValues.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num2Str">
+<param name="Local" value="MTZUtil_Num2Str.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CurName2Str">
+<param name="Local" value="MTZUtil_Num2Str_CurName2Str.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Kop2str">
+<param name="Local" value="MTZUtil_Num2Str_Kop2str.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="parseNumber">
+<param name="Local" value="MTZUtil_Num2Str_parseNumber.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenFormInfo">
+<param name="Local" value="MTZUtil_OpenFormInfo.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form">
+<param name="Local" value="MTZUtil_OpenFormInfo_Form.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InstanceID">
+<param name="Local" value="MTZUtil_OpenFormInfo_InstanceID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="modal">
+<param name="Local" value="MTZUtil_OpenFormInfo_modal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="mode">
+<param name="Local" value="MTZUtil_OpenFormInfo_mode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SortableCollection">
+<param name="Local" value="MTZUtil_SortableCollection.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="MTZUtil_SortableCollection_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddItem">
+<param name="Local" value="MTZUtil_SortableCollection_AddItem.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="MTZUtil_SortableCollection_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Clear">
+<param name="Local" value="MTZUtil_SortableCollection_Clear.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseParents">
+<param name="Local" value="MTZUtil_SortableCollection_CloseParents.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="MTZUtil_SortableCollection_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DirectItem">
+<param name="Local" value="MTZUtil_SortableCollection_DirectItem.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="MTZUtil_SortableCollection_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="MTZUtil_SortableCollection_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="MTZUtil_SortableCollection_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="MTZUtil_SortableCollection_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="MTZUtil_SortableCollection_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="MTZUtil_SortableCollection_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="MTZUtil_SortableCollection_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="MTZUtil_SortableCollection_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="MTZUtil_SortableCollection_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="MTZUtil_SortableCollection_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="MTZUtil_SortableCollection_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="MTZUtil_SortableCollection_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="MTZUtil_SortableCollection_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="MTZUtil_SortableCollection_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SortName">
+<param name="Local" value="MTZUtil_SortableCollection_SortName.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Utility">
+<param name="Local" value="MTZUtil_Utility.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ArrayToFile">
+<param name="Local" value="MTZUtil_Utility_ArrayToFile.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ArrayToHex">
+<param name="Local" value="MTZUtil_Utility_ArrayToHex.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CreateGUID2">
+<param name="Local" value="MTZUtil_Utility_CreateGUID2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DebugOutput">
+<param name="Local" value="MTZUtil_Utility_DebugOutput.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DoGetTempPath">
+<param name="Local" value="MTZUtil_Utility_DoGetTempPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DoOpenFile">
+<param name="Local" value="MTZUtil_Utility_DoOpenFile.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EditDocument">
+<param name="Local" value="MTZUtil_Utility_EditDocument.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FileToArray">
+<param name="Local" value="MTZUtil_Utility_FileToArray.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFileExtension2">
+<param name="Local" value="MTZUtil_Utility_GetFileExtension2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetImage">
+<param name="Local" value="MTZUtil_Utility_GetImage.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HexToArray">
+<param name="Local" value="MTZUtil_Utility_HexToArray.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsEqual">
+<param name="Local" value="MTZUtil_Utility_IsEqual.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsGUID">
+<param name="Local" value="MTZUtil_Utility_IsGUID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsHexDigit">
+<param name="Local" value="MTZUtil_Utility_IsHexDigit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsSet">
+<param name="Local" value="MTZUtil_Utility_IsSet.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadBtnPictures">
+<param name="Local" value="MTZUtil_Utility_LoadBtnPictures.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadGridLayout">
+<param name="Local" value="MTZUtil_Utility_LoadGridLayout.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadImage">
+<param name="Local" value="MTZUtil_Utility_LoadImage.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MakeMSSQLDate">
+<param name="Local" value="MTZUtil_Utility_MakeMSSQLDate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MakeODBCDate">
+<param name="Local" value="MTZUtil_Utility_MakeODBCDate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MakeORACLEDate">
+<param name="Local" value="MTZUtil_Utility_MakeORACLEDate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZGetSetting">
+<param name="Local" value="MTZUtil_Utility_MTZGetSetting.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZSaveSetting">
+<param name="Local" value="MTZUtil_Utility_MTZSaveSetting.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenDocument">
+<param name="Local" value="MTZUtil_Utility_OpenDocument.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StopApplication">
+<param name="Local" value="MTZUtil_Utility_StopApplication.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StringToFile">
+<param name="Local" value="MTZUtil_Utility_StringToFile.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StripTerminator">
+<param name="Local" value="MTZUtil_Utility_StripTerminator.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VerifyLic">
+<param name="Local" value="MTZUtil_Utility_VerifyLic.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

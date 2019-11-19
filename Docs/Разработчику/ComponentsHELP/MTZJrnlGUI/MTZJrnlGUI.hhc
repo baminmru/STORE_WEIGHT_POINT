@@ -1,0 +1,706 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZJrnlGUI">
+<param name="Local" value="MTZJrnlGUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ctl_main">
+<param name="Local" value="MTZJrnlGUI_ctl_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckStatusMenu">
+<param name="Local" value="MTZJrnlGUI_ctl_main_CheckStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="MTZJrnlGUI_ctl_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="MTZJrnlGUI_ctl_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_ctl_main_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_ctl_main_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_ctl_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="MTZJrnlGUI_ctl_main_ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="MTZJrnlGUI_ctl_main_OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="MTZJrnlGUI_ctl_main_ParentForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedHeight">
+<param name="Local" value="MTZJrnlGUI_ctl_main_PrefferedHeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedWidth">
+<param name="Local" value="MTZJrnlGUI_ctl_main_PrefferedWidth.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetupStatusMenu">
+<param name="Local" value="MTZJrnlGUI_ctl_main_SetupStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusMenuCount">
+<param name="Local" value="MTZJrnlGUI_ctl_main_StatusMenuCount.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frm_main">
+<param name="Local" value="MTZJrnlGUI_frm_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeforeChangeStatus">
+<param name="Local" value="MTZJrnlGUI_frm_main_BeforeChangeStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsNew">
+<param name="Local" value="MTZJrnlGUI_frm_main_CheckIsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsOk">
+<param name="Local" value="MTZJrnlGUI_frm_main_CheckIsOk.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="MTZJrnlGUI_frm_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="MTZJrnlGUI_frm_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_frm_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="MTZJrnlGUI_frm_main_ModalMode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmJColumnSource_">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="MTZJrnlGUI_frmJColumnSource__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmJournal_">
+<param name="Local" value="MTZJrnlGUI_frmJournal_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="MTZJrnlGUI_frmJournal__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="MTZJrnlGUI_frmJournal__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="MTZJrnlGUI_frmJournal__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="MTZJrnlGUI_frmJournal__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="MTZJrnlGUI_frmJournal__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="MTZJrnlGUI_frmJournal__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="MTZJrnlGUI_frmJournal__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_frmJournal__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="MTZJrnlGUI_frmJournal__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="MTZJrnlGUI_frmJournal__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_frmJournal__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="MTZJrnlGUI_frmJournal__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmJournalColumn_">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="MTZJrnlGUI_frmJournalColumn__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmJournalSrc_">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="MTZJrnlGUI_frmJournalSrc__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUI">
+<param name="Local" value="MTZJrnlGUI_GUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="MTZJrnlGUI_GUI_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseForm">
+<param name="Local" value="MTZJrnlGUI_GUI_EraseForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormCount">
+<param name="Local" value="MTZJrnlGUI_GUI_FormCount.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUIPath">
+<param name="Local" value="MTZJrnlGUI_GUI_GUIPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsModal">
+<param name="Local" value="MTZJrnlGUI_GUI_IsModal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Show">
+<param name="Local" value="MTZJrnlGUI_GUI_Show.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShowAddForm">
+<param name="Local" value="MTZJrnlGUI_GUI_ShowAddForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="JColumnSource">
+<param name="Local" value="MTZJrnlGUI_JColumnSource.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="MTZJrnlGUI_JColumnSource_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Journal">
+<param name="Local" value="MTZJrnlGUI_Journal.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="MTZJrnlGUI_Journal_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="MTZJrnlGUI_Journal_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="MTZJrnlGUI_Journal_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="MTZJrnlGUI_Journal_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_Journal_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_Journal_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_Journal_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="MTZJrnlGUI_Journal_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="MTZJrnlGUI_Journal_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="MTZJrnlGUI_Journal_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="MTZJrnlGUI_Journal_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="JournalColumn">
+<param name="Local" value="MTZJrnlGUI_JournalColumn.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="MTZJrnlGUI_JournalColumn_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="JournalSrc">
+<param name="Local" value="MTZJrnlGUI_JournalSrc.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="MTZJrnlGUI_JournalSrc_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Util">
+<param name="Local" value="MTZJrnlGUI_Util.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormByName">
+<param name="Local" value="MTZJrnlGUI_Util_FormByName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFromBuffer">
+<param name="Local" value="MTZJrnlGUI_Util_GetFromBuffer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToBuffer">
+<param name="Local" value="MTZJrnlGUI_Util_SaveToBuffer.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnJournal_">
+<param name="Local" value="MTZJrnlGUI_vpnJournal_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="MTZJrnlGUI_vpnJournal__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnJournalColumn_">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="MTZJrnlGUI_vpnJournalColumn__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnJournalSrc_">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="MTZJrnlGUI_vpnJournalSrc__ParentForm.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

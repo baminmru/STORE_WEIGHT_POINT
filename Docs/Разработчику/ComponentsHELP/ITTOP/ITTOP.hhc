@@ -1,0 +1,1654 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP">
+<param name="Local" value="ITTOP.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_Application.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToCash">
+<param name="Local" value="ITTOP_Application_AddToCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_Application_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AutoLoadPart">
+<param name="Local" value="ITTOP_Application_AutoLoadPart.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTOP_Application_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTOP_Application_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_Application_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_Application_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_Application_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_Application_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITTOP_Application_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_Application_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTOP_Application_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FillTree">
+<param name="Local" value="ITTOP_Application_FillTree.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_Application_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindRowObject">
+<param name="Local" value="ITTOP_Application_FindRowObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTOP_Application_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_Application_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemCollection">
+<param name="Local" value="ITTOP_Application_ItemCollection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KLNK">
+<param name="Local" value="ITTOP_Application_ITTOP_KLNK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPLNK">
+<param name="Local" value="ITTOP_Application_ITTOP_OPLNK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadAll">
+<param name="Local" value="ITTOP_Application_LoadAll.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_Application_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logger">
+<param name="Local" value="ITTOP_Application_Logger.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manager">
+<param name="Local" value="ITTOP_Application_Manager.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZSession">
+<param name="Local" value="ITTOP_Application_MTZSession.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="ITTOP_Application_Name.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_Application_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTOP_Application_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RemoveFromCash">
+<param name="Local" value="ITTOP_Application_RemoveFromCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOP_Application_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTOP_Application_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTOP_Application_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusID">
+<param name="Local" value="ITTOP_Application_StatusID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusName">
+<param name="Local" value="ITTOP_Application_StatusName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TypeName">
+<param name="Local" value="ITTOP_Application_TypeName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_Application_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WorkOffline">
+<param name="Local" value="ITTOP_Application_WorkOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_Application_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_Application_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCAM">
+<param name="Local" value="ITTOP_ITTOP_KCAM.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTOP_ITTOP_KCAM_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTOP_ITTOP_KCAM_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_KCAM_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_KCAM_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_KCAM_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_KCAM_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTOP_ITTOP_KCAM_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTOP_ITTOP_KCAM_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_KCAM_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTOP_ITTOP_KCAM_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_KCAM_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTOP_ITTOP_KCAM_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_KCAM_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTOP_ITTOP_KCAM_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTOP_ITTOP_KCAM_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTOP_ITTOP_KCAM_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTOP_ITTOP_KCAM_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTOP_ITTOP_KCAM_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheKamera">
+<param name="Local" value="ITTOP_ITTOP_KCAM_TheKamera.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_KCAM_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTOP_ITTOP_KCAM_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_KCAM_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_KCAM_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCAM_COL">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_KCAM_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCLI">
+<param name="Local" value="ITTOP_ITTOP_KCLI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTOP_ITTOP_KCLI_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTOP_ITTOP_KCLI_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_KCLI_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_KCLI_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_KCLI_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_KCLI_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTOP_ITTOP_KCLI_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTOP_ITTOP_KCLI_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_KCLI_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTOP_ITTOP_KCLI_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_KCLI_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTOP_ITTOP_KCLI_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_KCLI_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTOP_ITTOP_KCLI_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTOP_ITTOP_KCLI_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTOP_ITTOP_KCLI_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTOP_ITTOP_KCLI_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTOP_ITTOP_KCLI_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheClient">
+<param name="Local" value="ITTOP_ITTOP_KCLI_TheClient.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_KCLI_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTOP_ITTOP_KCLI_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_KCLI_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_KCLI_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCLI_COL">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_KCLI_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KLNK">
+<param name="Local" value="ITTOP_ITTOP_KLNK.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTOP_ITTOP_KLNK_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTOP_ITTOP_KLNK_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_KLNK_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_KLNK_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_KLNK_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_KLNK_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTOP_ITTOP_KLNK_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTOP_ITTOP_KLNK_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_KLNK_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTOP_ITTOP_KLNK_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_KLNK_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCAM">
+<param name="Local" value="ITTOP_ITTOP_KLNK_ITTOP_KCAM.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCLI">
+<param name="Local" value="ITTOP_ITTOP_KLNK_ITTOP_KCLI.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTOP_ITTOP_KLNK_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_KLNK_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTOP_ITTOP_KLNK_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTOP_ITTOP_KLNK_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTOP_ITTOP_KLNK_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTOP_ITTOP_KLNK_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTOP_ITTOP_KLNK_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheUser">
+<param name="Local" value="ITTOP_ITTOP_KLNK_TheUser.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_KLNK_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTOP_ITTOP_KLNK_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_KLNK_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_KLNK_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KLNK_COL">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_KLNK_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPKAM">
+<param name="Local" value="ITTOP_ITTOP_OPKAM.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheKamera">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_TheKamera.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPKAM_COL">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_OPKAM_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPLNK">
+<param name="Local" value="ITTOP_ITTOP_OPLNK.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPKAM">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_ITTOP_OPKAM.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheUser">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_TheUser.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPLNK_COL">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTOP_ITTOP_OPLNK_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>ITT2008.RoleSupport.BeforeChangeStatus</TITLE>
+</HEAD>
+<BODY>
+<B><A HREF="ITT2008_RoleSupport.htm">Интерфейс RoleSupport</A> </B><B><A HREF="ITT2008.htm">Компонент ITT2008</A> </B><HR>
+<H1 > RoleSupport.BeforeChangeStatus</H1>
+
+<P>
+<H2 > <I>Public Function BeforeChangeStatus(Item As Object, NewStatus As String) As Boolean</I></H2>
+<P><BR>
+ Разрешение смены состояния документа<BR>
+ <P><H3>Параметры (Parameters)</H3><BR>
+ [IN][OUT]  Item , тип параметра: Object - документ ( Application),<BR>
+ [IN][OUT]   NewStatus , тип параметра: String  - Состояние<BR>
+ <P><H3>Возвращает (Returns)</H3><BR>
+  Boolean, семантика результата:<BR>
+    true  - можно<BR>
+    false - низзя!<BR>
+ <P><H3>Смотри также (See Also)</H3><UL><LI><A HREF="ITT2008_RoleSupport_ARMID.htm">ARMID</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_CheckMenu.htm">CheckMenu</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_ChooseRole.htm">ChooseRole</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_GetDocumentMode.htm">GetDocumentMode</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_IsDocDenied.htm">IsDocDenied</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_MyRole.htm">MyRole</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_RoleDocAllowDelete.htm">RoleDocAllowDelete</A> <BR>
+<LI><A HREF="ITT2008_RoleSupport_RoleDocCanSwitchStatus.htm">RoleDocCanSwitchStatus</A> <BR>
+</UL><BR>
+<P><H3>Пример (Example)</H3><BR>
+  dim variable as Boolean<BR>
+  variable = me.BeforeChangeStatus(...параметры...)<BR>
+
+
+<HR>
+<B><A HREF="ITT2008_RoleSupport.htm">Интерфейс RoleSupport</A> </B><B><A HREF="ITT2008.htm">Компонент ITT2008</A> </B>
+</BODY>
+</HTML>

@@ -1,0 +1,768 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOPGUI">
+<param name="Local" value="ITTOPGUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ctl_main">
+<param name="Local" value="ITTOPGUI_ctl_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckStatusMenu">
+<param name="Local" value="ITTOPGUI_ctl_main_CheckStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="ITTOPGUI_ctl_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="ITTOPGUI_ctl_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_ctl_main_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_ctl_main_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_ctl_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ITTOPGUI_ctl_main_ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ITTOPGUI_ctl_main_OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ITTOPGUI_ctl_main_ParentForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedHeight">
+<param name="Local" value="ITTOPGUI_ctl_main_PrefferedHeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedWidth">
+<param name="Local" value="ITTOPGUI_ctl_main_PrefferedWidth.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetupStatusMenu">
+<param name="Local" value="ITTOPGUI_ctl_main_SetupStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusMenuCount">
+<param name="Local" value="ITTOPGUI_ctl_main_StatusMenuCount.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frm_main">
+<param name="Local" value="ITTOPGUI_frm_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeforeChangeStatus">
+<param name="Local" value="ITTOPGUI_frm_main_BeforeChangeStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsNew">
+<param name="Local" value="ITTOPGUI_frm_main_CheckIsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsOk">
+<param name="Local" value="ITTOPGUI_frm_main_CheckIsOk.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="ITTOPGUI_frm_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="ITTOPGUI_frm_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_frm_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ITTOPGUI_frm_main_ModalMode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOP_KCAM_">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCAM__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOP_KCLI_">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ITTOPGUI_frmITTOP_KCLI__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOP_KLNK_">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ITTOPGUI_frmITTOP_KLNK__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOP_OPKAM_">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPKAM__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOP_OPLNK_">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ITTOPGUI_frmITTOP_OPLNK__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUI">
+<param name="Local" value="ITTOPGUI_GUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITTOPGUI_GUI_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseForm">
+<param name="Local" value="ITTOPGUI_GUI_EraseForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormCount">
+<param name="Local" value="ITTOPGUI_GUI_FormCount.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUIPath">
+<param name="Local" value="ITTOPGUI_GUI_GUIPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsModal">
+<param name="Local" value="ITTOPGUI_GUI_IsModal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Show">
+<param name="Local" value="ITTOPGUI_GUI_Show.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShowAddForm">
+<param name="Local" value="ITTOPGUI_GUI_ShowAddForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCAM">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOPGUI_ITTOP_KCAM_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KCLI">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOPGUI_ITTOP_KCLI_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_KLNK">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOPGUI_ITTOP_KLNK_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPKAM">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOPGUI_ITTOP_OPKAM_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTOP_OPLNK">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTOPGUI_ITTOP_OPLNK_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Util">
+<param name="Local" value="ITTOPGUI_Util.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormByName">
+<param name="Local" value="ITTOPGUI_Util_FormByName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFromBuffer">
+<param name="Local" value="ITTOPGUI_Util_GetFromBuffer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToBuffer">
+<param name="Local" value="ITTOPGUI_Util_SaveToBuffer.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnITTOP_KLNK_">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ITTOPGUI_vpnITTOP_KLNK__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnITTOP_OPLNK_">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ITTOPGUI_vpnITTOP_OPLNK__ParentForm.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

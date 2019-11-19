@@ -1,0 +1,14 @@
+BEFORESTATUS = 243, 52, 626, 418, Z
+frmProgress = 88, 116, 848, 515, C, 88, 88, 798, 454, C
+Optimizator = 132, 132, 515, 498, 
+Box = 177, 98, 917, 521, 
+BoxShift = 44, 58, 906, 482, 
+Form1 = 22, 22, 402, 391, , 66, 66, 446, 435, C
+Boxes = 154, 154, 785, 549, 
+BoxShifts = 132, 132, 593, 525, 
+MOvableItem = 22, 29, 886, 428, 
+MovableItems = 44, 58, 908, 457, 
+MixedBox = 110, 145, 634, 525, 
+MixedBoxes = 132, 174, 656, 554, 
+EmptyBox = 0, 0, 0, 0, C
+EmptyBoxes = 0, 0, 0, 0, C

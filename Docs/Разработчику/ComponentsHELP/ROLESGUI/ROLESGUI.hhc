@@ -1,0 +1,1248 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLESGUI">
+<param name="Local" value="ROLESGUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ctl_main">
+<param name="Local" value="ROLESGUI_ctl_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckStatusMenu">
+<param name="Local" value="ROLESGUI_ctl_main_CheckStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="ROLESGUI_ctl_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="ROLESGUI_ctl_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ctl_main_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ctl_main_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ctl_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_ctl_main_ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_ctl_main_OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_ctl_main_ParentForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedHeight">
+<param name="Local" value="ROLESGUI_ctl_main_PrefferedHeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedWidth">
+<param name="Local" value="ROLESGUI_ctl_main_PrefferedWidth.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetupStatusMenu">
+<param name="Local" value="ROLESGUI_ctl_main_SetupStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusMenuCount">
+<param name="Local" value="ROLESGUI_ctl_main_StatusMenuCount.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frm_main">
+<param name="Local" value="ROLESGUI_frm_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeforeChangeStatus">
+<param name="Local" value="ROLESGUI_frm_main_BeforeChangeStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsNew">
+<param name="Local" value="ROLESGUI_frm_main_CheckIsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsOk">
+<param name="Local" value="ROLESGUI_frm_main_CheckIsOk.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="ROLESGUI_frm_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="ROLESGUI_frm_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frm_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_frm_main_ModalMode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_ACT_">
+<param name="Local" value="ROLESGUI_frmROLES_ACT_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_ACT__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_DEF_">
+<param name="Local" value="ROLESGUI_frmROLES_DEF_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_DEF__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_DOC_">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_DOC__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_DOC_STATE_">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_DOC_STATE__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_MAP_">
+<param name="Local" value="ROLESGUI_frmROLES_MAP_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_MAP__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_REPORTS_">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_REPORTS__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_USER_">
+<param name="Local" value="ROLESGUI_frmROLES_USER_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_USER__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_USER__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_USER__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_USER__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_USER__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_USER__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_USER__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_USER__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_USER__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_USER__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_USER__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_USER__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmROLES_WP_">
+<param name="Local" value="ROLESGUI_frmROLES_WP_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="ROLESGUI_frmROLES_WP__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="ROLESGUI_frmROLES_WP__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="ROLESGUI_frmROLES_WP__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="ROLESGUI_frmROLES_WP__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="ROLESGUI_frmROLES_WP__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="ROLESGUI_frmROLES_WP__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="ROLESGUI_frmROLES_WP__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_frmROLES_WP__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="ROLESGUI_frmROLES_WP__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ROLESGUI_frmROLES_WP__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_frmROLES_WP__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="ROLESGUI_frmROLES_WP__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUI">
+<param name="Local" value="ROLESGUI_GUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_GUI_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseForm">
+<param name="Local" value="ROLESGUI_GUI_EraseForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormCount">
+<param name="Local" value="ROLESGUI_GUI_FormCount.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUIPath">
+<param name="Local" value="ROLESGUI_GUI_GUIPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsModal">
+<param name="Local" value="ROLESGUI_GUI_IsModal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Show">
+<param name="Local" value="ROLESGUI_GUI_Show.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShowAddForm">
+<param name="Local" value="ROLESGUI_GUI_ShowAddForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_ACT">
+<param name="Local" value="ROLESGUI_ROLES_ACT.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_ACT_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_ACT_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_ACT_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_ACT_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_ACT_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_ACT_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_ACT_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_ACT_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_ACT_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_ACT_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_ACT_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_DEF">
+<param name="Local" value="ROLESGUI_ROLES_DEF.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_DEF_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_DEF_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_DEF_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_DEF_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_DEF_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_DEF_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_DEF_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_DEF_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_DEF_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_DEF_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_DEF_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_DOC">
+<param name="Local" value="ROLESGUI_ROLES_DOC.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_DOC_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_DOC_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_DOC_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_DOC_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_DOC_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_DOC_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_DOC_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_DOC_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_DOC_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_DOC_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_DOC_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_DOC_STATE">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_DOC_STATE_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_MAP">
+<param name="Local" value="ROLESGUI_ROLES_MAP.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_MAP_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_MAP_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_MAP_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_MAP_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_MAP_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_MAP_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_MAP_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_MAP_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_MAP_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_MAP_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_MAP_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_REPORTS">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_REPORTS_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_USER">
+<param name="Local" value="ROLESGUI_ROLES_USER.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_USER_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_USER_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_USER_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_USER_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_USER_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_USER_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_USER_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_USER_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_USER_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_USER_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_USER_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ROLES_WP">
+<param name="Local" value="ROLESGUI_ROLES_WP.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ROLESGUI_ROLES_WP_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="ROLESGUI_ROLES_WP_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ROLESGUI_ROLES_WP_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="ROLESGUI_ROLES_WP_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_ROLES_WP_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_ROLES_WP_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_ROLES_WP_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="ROLESGUI_ROLES_WP_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="ROLESGUI_ROLES_WP_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="ROLESGUI_ROLES_WP_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ROLESGUI_ROLES_WP_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Util">
+<param name="Local" value="ROLESGUI_Util.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormByName">
+<param name="Local" value="ROLESGUI_Util_FormByName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFromBuffer">
+<param name="Local" value="ROLESGUI_Util_GetFromBuffer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToBuffer">
+<param name="Local" value="ROLESGUI_Util_SaveToBuffer.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnROLES_DEF_">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_vpnROLES_DEF__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnROLES_DOC_">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_vpnROLES_DOC__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnROLES_MAP_">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_vpnROLES_MAP__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnROLES_REPORTS_">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_vpnROLES_REPORTS__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnROLES_USER_">
+<param name="Local" value="ROLESGUI_vpnROLES_USER_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_vpnROLES_USER__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnROLES_WP_">
+<param name="Local" value="ROLESGUI_vpnROLES_WP_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="ROLESGUI_vpnROLES_WP__ParentForm.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

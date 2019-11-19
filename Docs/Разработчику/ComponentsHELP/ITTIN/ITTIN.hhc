@@ -1,0 +1,1902 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN">
+<param name="Local" value="ITTIN.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_Application.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToCash">
+<param name="Local" value="ITTIN_Application_AddToCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_Application_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AutoLoadPart">
+<param name="Local" value="ITTIN_Application_AutoLoadPart.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTIN_Application_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTIN_Application_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_Application_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_Application_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_Application_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_Application_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITTIN_Application_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_Application_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTIN_Application_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FillTree">
+<param name="Local" value="ITTIN_Application_FillTree.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_Application_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindRowObject">
+<param name="Local" value="ITTIN_Application_FindRowObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTIN_Application_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_Application_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemCollection">
+<param name="Local" value="ITTIN_Application_ItemCollection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_DEF">
+<param name="Local" value="ITTIN_Application_ITTIN_DEF.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_EPL">
+<param name="Local" value="ITTIN_Application_ITTIN_EPL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_QLINE">
+<param name="Local" value="ITTIN_Application_ITTIN_QLINE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_SRV">
+<param name="Local" value="ITTIN_Application_ITTIN_SRV.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadAll">
+<param name="Local" value="ITTIN_Application_LoadAll.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_Application_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logger">
+<param name="Local" value="ITTIN_Application_Logger.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manager">
+<param name="Local" value="ITTIN_Application_Manager.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZSession">
+<param name="Local" value="ITTIN_Application_MTZSession.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="ITTIN_Application_Name.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_Application_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTIN_Application_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RemoveFromCash">
+<param name="Local" value="ITTIN_Application_RemoveFromCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTIN_Application_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTIN_Application_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTIN_Application_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusID">
+<param name="Local" value="ITTIN_Application_StatusID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusName">
+<param name="Local" value="ITTIN_Application_StatusName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TypeName">
+<param name="Local" value="ITTIN_Application_TypeName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_Application_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WorkOffline">
+<param name="Local" value="ITTIN_Application_WorkOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_Application_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_Application_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_DEF">
+<param name="Local" value="ITTIN_ITTIN_DEF.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTIN_ITTIN_DEF_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_DEF_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTIN_ITTIN_DEF_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTIN_ITTIN_DEF_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_DEF_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_DEF_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_DEF_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_DEF_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTIN_ITTIN_DEF_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTIN_ITTIN_DEF_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTIN_ITTIN_DEF_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTIN_ITTIN_DEF_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_DEF_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Container">
+<param name="Local" value="ITTIN_ITTIN_DEF_Container.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_DEF_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTIN_ITTIN_DEF_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTIN_ITTIN_DEF_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_DEF_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTIN_ITTIN_DEF_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_DEF_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTIN_ITTIN_DEF_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_DEF_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTIN_ITTIN_DEF_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_DEF_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTIN_ITTIN_DEF_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProcessDate">
+<param name="Local" value="ITTIN_ITTIN_DEF_ProcessDate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTIN_ITTIN_DEF_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="QryCode">
+<param name="Local" value="ITTIN_ITTIN_DEF_QryCode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_DEF_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTIN_ITTIN_DEF_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTIN_ITTIN_DEF_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTIN_ITTIN_DEF_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTIN_ITTIN_DEF_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTIN_ITTIN_DEF_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StampNumber">
+<param name="Local" value="ITTIN_ITTIN_DEF_StampNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StampStatus">
+<param name="Local" value="ITTIN_ITTIN_DEF_StampStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Supplier">
+<param name="Local" value="ITTIN_ITTIN_DEF_Supplier.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="temp_in_track">
+<param name="Local" value="ITTIN_ITTIN_DEF_temp_in_track.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheClient">
+<param name="Local" value="ITTIN_ITTIN_DEF_TheClient.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ThePartyRule">
+<param name="Local" value="ITTIN_ITTIN_DEF_ThePartyRule.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Track_time_in">
+<param name="Local" value="ITTIN_ITTIN_DEF_Track_time_in.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="track_time_out">
+<param name="Local" value="ITTIN_ITTIN_DEF_track_time_out.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TranspNumber">
+<param name="Local" value="ITTIN_ITTIN_DEF_TranspNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TTN">
+<param name="Local" value="ITTIN_ITTIN_DEF_TTN.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TTNDate">
+<param name="Local" value="ITTIN_ITTIN_DEF_TTNDate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_DEF_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTIN_ITTIN_DEF_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_DEF_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_DEF_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_DEF_COL">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_DEF_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_EPL">
+<param name="Local" value="ITTIN_ITTIN_EPL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTIN_ITTIN_EPL_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_EPL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTIN_ITTIN_EPL_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTIN_ITTIN_EPL_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_EPL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_EPL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_EPL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_EPL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTIN_ITTIN_EPL_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTIN_ITTIN_EPL_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTIN_ITTIN_EPL_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTIN_ITTIN_EPL_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_EPL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_EPL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTIN_ITTIN_EPL_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTIN_ITTIN_EPL_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_EPL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTIN_ITTIN_EPL_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_EPL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTIN_ITTIN_EPL_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_EPL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTIN_ITTIN_EPL_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PalWeight">
+<param name="Local" value="ITTIN_ITTIN_EPL_PalWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_EPL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTIN_ITTIN_EPL_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTIN_ITTIN_EPL_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_EPL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTIN_ITTIN_EPL_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTIN_ITTIN_EPL_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTIN_ITTIN_EPL_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTIN_ITTIN_EPL_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTIN_ITTIN_EPL_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheNumber">
+<param name="Local" value="ITTIN_ITTIN_EPL_TheNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_EPL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTIN_ITTIN_EPL_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_EPL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_EPL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_EPL_COL">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_EPL_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_PALET">
+<param name="Local" value="ITTIN_ITTIN_PALET.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTIN_ITTIN_PALET_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_PALET_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BarCode1">
+<param name="Local" value="ITTIN_ITTIN_PALET_BarCode1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BarCode2">
+<param name="Local" value="ITTIN_ITTIN_PALET_BarCode2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTIN_ITTIN_PALET_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTIN_ITTIN_PALET_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BufferZonePlace">
+<param name="Local" value="ITTIN_ITTIN_PALET_BufferZonePlace.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CaliberQuantity">
+<param name="Local" value="ITTIN_ITTIN_PALET_CaliberQuantity.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_PALET_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_PALET_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_PALET_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_PALET_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTIN_ITTIN_PALET_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTIN_ITTIN_PALET_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTIN_ITTIN_PALET_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTIN_ITTIN_PALET_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_PALET_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_PALET_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTIN_ITTIN_PALET_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="exp_date">
+<param name="Local" value="ITTIN_ITTIN_PALET_exp_date.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTIN_ITTIN_PALET_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Factory">
+<param name="Local" value="ITTIN_ITTIN_PALET_Factory.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_PALET_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FullPackageWeight">
+<param name="Local" value="ITTIN_ITTIN_PALET_FullPackageWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GoodWithPaletWeight">
+<param name="Local" value="ITTIN_ITTIN_PALET_GoodWithPaletWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTIN_ITTIN_PALET_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsBrak">
+<param name="Local" value="ITTIN_ITTIN_PALET_IsBrak.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsCalibrated">
+<param name="Local" value="ITTIN_ITTIN_PALET_IsCalibrated.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_PALET_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KILL_NUMBER">
+<param name="Local" value="ITTIN_ITTIN_PALET_KILL_NUMBER.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KorobBrutto">
+<param name="Local" value="ITTIN_ITTIN_PALET_KorobBrutto.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KorobNetto">
+<param name="Local" value="ITTIN_ITTIN_PALET_KorobNetto.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTIN_ITTIN_PALET_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_PALET_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="made_country">
+<param name="Local" value="ITTIN_ITTIN_PALET_made_country.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Made_date">
+<param name="Local" value="ITTIN_ITTIN_PALET_Made_date.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="made_date_to">
+<param name="Local" value="ITTIN_ITTIN_PALET_made_date_to.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTIN_ITTIN_PALET_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PackageWeight">
+<param name="Local" value="ITTIN_ITTIN_PALET_PackageWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="palet_id">
+<param name="Local" value="ITTIN_ITTIN_PALET_palet_id.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PalWeight">
+<param name="Local" value="ITTIN_ITTIN_PALET_PalWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_PALET_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTIN_ITTIN_PALET_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartRef">
+<param name="Local" value="ITTIN_ITTIN_PALET_PartRef.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTIN_ITTIN_PALET_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_PALET_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTIN_ITTIN_PALET_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTIN_ITTIN_PALET_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTIN_ITTIN_PALET_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTIN_ITTIN_PALET_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTIN_ITTIN_PALET_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="sequence">
+<param name="Local" value="ITTIN_ITTIN_PALET_sequence.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SSCC">
+<param name="Local" value="ITTIN_ITTIN_PALET_SSCC.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Stock_ID">
+<param name="Local" value="ITTIN_ITTIN_PALET_Stock_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheNumber">
+<param name="Local" value="ITTIN_ITTIN_PALET_TheNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_PALET_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTIN_ITTIN_PALET_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vetsved">
+<param name="Local" value="ITTIN_ITTIN_PALET_vetsved.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VidOtruba">
+<param name="Local" value="ITTIN_ITTIN_PALET_VidOtruba.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_PALET_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_PALET_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_PALET_COL">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_PALET_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_QLINE">
+<param name="Local" value="ITTIN_ITTIN_QLINE.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTIN_ITTIN_QLINE_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="articul">
+<param name="Local" value="ITTIN_ITTIN_QLINE_articul.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTIN_ITTIN_QLINE_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CaliberWeight">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CaliberWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTIN_ITTIN_QLINE_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CurValue">
+<param name="Local" value="ITTIN_ITTIN_QLINE_CurValue.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="edizm">
+<param name="Local" value="ITTIN_ITTIN_QLINE_edizm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="exp_date">
+<param name="Local" value="ITTIN_ITTIN_QLINE_exp_date.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Factory">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Factory.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_QLINE_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FullPackageWeight">
+<param name="Local" value="ITTIN_ITTIN_QLINE_FullPackageWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="good_id">
+<param name="Local" value="ITTIN_ITTIN_QLINE_good_id.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTIN_ITTIN_QLINE_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsCalibrated">
+<param name="Local" value="ITTIN_ITTIN_QLINE_IsCalibrated.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_QLINE_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_PALET">
+<param name="Local" value="ITTIN_ITTIN_QLINE_ITTIN_PALET.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KILL_NUMBER">
+<param name="Local" value="ITTIN_ITTIN_QLINE_KILL_NUMBER.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KorobBrutto">
+<param name="Local" value="ITTIN_ITTIN_QLINE_KorobBrutto.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KorobNetto">
+<param name="Local" value="ITTIN_ITTIN_QLINE_KorobNetto.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LineAtQuery">
+<param name="Local" value="ITTIN_ITTIN_QLINE_LineAtQuery.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTIN_ITTIN_QLINE_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_QLINE_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="made_country">
+<param name="Local" value="ITTIN_ITTIN_QLINE_made_country.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Made_date">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Made_date.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="made_date_to">
+<param name="Local" value="ITTIN_ITTIN_QLINE_made_date_to.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Navalom">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Navalom.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PackageWeight">
+<param name="Local" value="ITTIN_ITTIN_QLINE_PackageWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTIN_ITTIN_QLINE_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartRef">
+<param name="Local" value="ITTIN_ITTIN_QLINE_PartRef.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="QRY_NUM">
+<param name="Local" value="ITTIN_ITTIN_QLINE_QRY_NUM.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTIN_ITTIN_QLINE_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTIN_ITTIN_QLINE_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTIN_ITTIN_QLINE_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTIN_ITTIN_QLINE_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="sequence">
+<param name="Local" value="ITTIN_ITTIN_QLINE_sequence.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_QLINE_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTIN_ITTIN_QLINE_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vetsved">
+<param name="Local" value="ITTIN_ITTIN_QLINE_vetsved.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VidOtruba">
+<param name="Local" value="ITTIN_ITTIN_QLINE_VidOtruba.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_QLINE_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_QLINE_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_QLINE_COL">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_QLINE_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_SRV">
+<param name="Local" value="ITTIN_ITTIN_SRV.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTIN_ITTIN_SRV_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_SRV_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTIN_ITTIN_SRV_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTIN_ITTIN_SRV_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_SRV_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_SRV_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_SRV_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_SRV_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTIN_ITTIN_SRV_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTIN_ITTIN_SRV_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTIN_ITTIN_SRV_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTIN_ITTIN_SRV_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_SRV_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_SRV_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTIN_ITTIN_SRV_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTIN_ITTIN_SRV_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_SRV_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTIN_ITTIN_SRV_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_SRV_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTIN_ITTIN_SRV_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_SRV_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTIN_ITTIN_SRV_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_SRV_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTIN_ITTIN_SRV_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTIN_ITTIN_SRV_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quantity">
+<param name="Local" value="ITTIN_ITTIN_SRV_Quantity.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_SRV_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTIN_ITTIN_SRV_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTIN_ITTIN_SRV_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTIN_ITTIN_SRV_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTIN_ITTIN_SRV_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTIN_ITTIN_SRV_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SRV">
+<param name="Local" value="ITTIN_ITTIN_SRV_SRV.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_SRV_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTIN_ITTIN_SRV_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_SRV_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_SRV_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTIN_SRV_COL">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTIN_ITTIN_SRV_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

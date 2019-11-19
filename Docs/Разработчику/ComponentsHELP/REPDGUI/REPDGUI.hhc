@@ -1,0 +1,1456 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPDGUI">
+<param name="Local" value="REPDGUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ctl_main">
+<param name="Local" value="REPDGUI_ctl_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckStatusMenu">
+<param name="Local" value="REPDGUI_ctl_main_CheckStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="REPDGUI_ctl_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="REPDGUI_ctl_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_ctl_main_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_ctl_main_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_ctl_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_ctl_main_ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_ctl_main_OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_ctl_main_ParentForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedHeight">
+<param name="Local" value="REPDGUI_ctl_main_PrefferedHeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedWidth">
+<param name="Local" value="REPDGUI_ctl_main_PrefferedWidth.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetupStatusMenu">
+<param name="Local" value="REPDGUI_ctl_main_SetupStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusMenuCount">
+<param name="Local" value="REPDGUI_ctl_main_StatusMenuCount.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frm_main">
+<param name="Local" value="REPDGUI_frm_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeforeChangeStatus">
+<param name="Local" value="REPDGUI_frm_main_BeforeChangeStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsNew">
+<param name="Local" value="REPDGUI_frm_main_CheckIsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsOk">
+<param name="Local" value="REPDGUI_frm_main_CheckIsOk.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="REPDGUI_frm_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="REPDGUI_frm_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frm_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_frm_main_ModalMode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_CONST_">
+<param name="Local" value="REPDGUI_frmREPD_CONST_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_CONST__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_CONST__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_CONST__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_CONST__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_CONST__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_CONST__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_CONST__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_CONST__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_CONST__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_CONST__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_CONST__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_CONST__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_LOCKED_">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_LOCKED__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_PROV_">
+<param name="Local" value="REPDGUI_frmREPD_PROV_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_PROV__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_PROV__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_PROV__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_PROV__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_PROV__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_PROV__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_PROV__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_PROV__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_PROV__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_PROV__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_PROV__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_PROV__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_RecvQ_">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_RecvQ__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_REPTYPE_">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_REPTYPE__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_RequestQuery_">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_RequestQuery__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_ResQueryRcv_">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_ResQueryRcv__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_SendQ_">
+<param name="Local" value="REPDGUI_frmREPD_SendQ_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_SendQ__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_SNDTO_">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_SNDTO__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmREPD_SRV_">
+<param name="Local" value="REPDGUI_frmREPD_SRV_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="REPDGUI_frmREPD_SRV__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="REPDGUI_frmREPD_SRV__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="REPDGUI_frmREPD_SRV__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="REPDGUI_frmREPD_SRV__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="REPDGUI_frmREPD_SRV__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="REPDGUI_frmREPD_SRV__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Unload">
+<param name="Local" value="REPDGUI_frmREPD_SRV__Form_Unload.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_frmREPD_SRV__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="REPDGUI_frmREPD_SRV__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="REPDGUI_frmREPD_SRV__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_frmREPD_SRV__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="REPDGUI_frmREPD_SRV__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUI">
+<param name="Local" value="REPDGUI_GUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_GUI_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseForm">
+<param name="Local" value="REPDGUI_GUI_EraseForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormCount">
+<param name="Local" value="REPDGUI_GUI_FormCount.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUIPath">
+<param name="Local" value="REPDGUI_GUI_GUIPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsModal">
+<param name="Local" value="REPDGUI_GUI_IsModal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Show">
+<param name="Local" value="REPDGUI_GUI_Show.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShowAddForm">
+<param name="Local" value="REPDGUI_GUI_ShowAddForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_CONST">
+<param name="Local" value="REPDGUI_REPD_CONST.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_CONST_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_CONST_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_CONST_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_CONST_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_CONST_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_CONST_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_CONST_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_CONST_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_CONST_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_CONST_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_CONST_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_LOCKED">
+<param name="Local" value="REPDGUI_REPD_LOCKED.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_LOCKED_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_LOCKED_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_LOCKED_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_LOCKED_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_LOCKED_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_LOCKED_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_LOCKED_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_LOCKED_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_LOCKED_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_LOCKED_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_LOCKED_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_PROV">
+<param name="Local" value="REPDGUI_REPD_PROV.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_PROV_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_PROV_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_PROV_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_PROV_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_PROV_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_PROV_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_PROV_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_PROV_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_PROV_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_PROV_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_PROV_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_RecvQ">
+<param name="Local" value="REPDGUI_REPD_RecvQ.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_RecvQ_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_RecvQ_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_RecvQ_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_RecvQ_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_RecvQ_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_RecvQ_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_RecvQ_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_RecvQ_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_RecvQ_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_RecvQ_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_RecvQ_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_REPTYPE">
+<param name="Local" value="REPDGUI_REPD_REPTYPE.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_REPTYPE_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_RequestQuery">
+<param name="Local" value="REPDGUI_REPD_RequestQuery.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_RequestQuery_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_ResQueryRcv">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_ResQueryRcv_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_SendQ">
+<param name="Local" value="REPDGUI_REPD_SendQ.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_SendQ_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_SendQ_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_SendQ_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_SendQ_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_SendQ_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_SendQ_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_SendQ_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_SendQ_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_SendQ_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_SendQ_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_SendQ_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_SNDTO">
+<param name="Local" value="REPDGUI_REPD_SNDTO.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_SNDTO_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_SNDTO_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_SNDTO_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_SNDTO_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_SNDTO_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_SNDTO_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_SNDTO_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_SNDTO_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_SNDTO_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_SNDTO_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_SNDTO_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REPD_SRV">
+<param name="Local" value="REPDGUI_REPD_SRV.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="REPDGUI_REPD_SRV_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="REPDGUI_REPD_SRV_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="REPDGUI_REPD_SRV_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="REPDGUI_REPD_SRV_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_REPD_SRV_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_REPD_SRV_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_REPD_SRV_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="REPDGUI_REPD_SRV_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="REPDGUI_REPD_SRV_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="REPDGUI_REPD_SRV_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="REPDGUI_REPD_SRV_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Util">
+<param name="Local" value="REPDGUI_Util.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormByName">
+<param name="Local" value="REPDGUI_Util_FormByName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFromBuffer">
+<param name="Local" value="REPDGUI_Util_GetFromBuffer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToBuffer">
+<param name="Local" value="REPDGUI_Util_SaveToBuffer.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnREPD_LOCKED_">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_vpnREPD_LOCKED__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnREPD_PROV_">
+<param name="Local" value="REPDGUI_vpnREPD_PROV_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_vpnREPD_PROV__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnREPD_RecvQ_">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_vpnREPD_RecvQ__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnREPD_RequestQuery_">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_vpnREPD_RequestQuery__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnREPD_SendQ_">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_vpnREPD_SendQ__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnREPD_SRV_">
+<param name="Local" value="REPDGUI_vpnREPD_SRV_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="REPDGUI_vpnREPD_SRV__ParentForm.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

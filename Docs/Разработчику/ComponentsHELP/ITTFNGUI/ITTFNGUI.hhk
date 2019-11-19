@@ -1,0 +1,122 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="ITTFNGUI"><param name="Name" value="ITTFNGUI"><param name="Local" value="ITTFNGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctl_main"><param name="Name" value="ITTFNGUI.ctl_main"><param name="Local" value="ITTFNGUI_ctl_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckStatusMenu"><param name="Name" value="ITTFNGUI.ctl_main.CheckStatusMenu"><param name="Local" value="ITTFNGUI_ctl_main_CheckStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Host"><param name="Name" value="ITTFNGUI.ctl_main.Host"><param name="Local" value="ITTFNGUI_ctl_main_Host.htm"><param name="Name" value="ITTFNGUI.frm_main.Host"><param name="Local" value="ITTFNGUI_frm_main_Host.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Init"><param name="Name" value="ITTFNGUI.ctl_main.Init"><param name="Local" value="ITTFNGUI_ctl_main_Init.htm"><param name="Name" value="ITTFNGUI.frm_main.Init"><param name="Local" value="ITTFNGUI_frm_main_Init.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsChanged"><param name="Name" value="ITTFNGUI.ctl_main.IsChanged"><param name="Local" value="ITTFNGUI_ctl_main_IsChanged.htm"><param name="Name" value="ITTFNGUI.ITTFN_MAX.IsChanged"><param name="Local" value="ITTFNGUI_ITTFN_MAX_IsChanged.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.IsChanged"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__IsChanged.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsOK"><param name="Name" value="ITTFNGUI.ctl_main.IsOK"><param name="Local" value="ITTFNGUI_ctl_main_IsOK.htm"><param name="Name" value="ITTFNGUI.ITTFN_MAX.IsOK"><param name="Local" value="ITTFNGUI_ITTFN_MAX_IsOK.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.IsOK"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__IsOK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Name" value="ITTFNGUI.ctl_main.item"><param name="Local" value="ITTFNGUI_ctl_main_item.htm"><param name="Name" value="ITTFNGUI.frm_main.item"><param name="Local" value="ITTFNGUI_frm_main_item.htm"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.item"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__item.htm"><param name="Name" value="ITTFNGUI.ITTFN_MAX.item"><param name="Local" value="ITTFNGUI_ITTFN_MAX_item.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.item"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__item.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ModalMode"><param name="Name" value="ITTFNGUI.ctl_main.ModalMode"><param name="Local" value="ITTFNGUI_ctl_main_ModalMode.htm"><param name="Name" value="ITTFNGUI.frm_main.ModalMode"><param name="Local" value="ITTFNGUI_frm_main_ModalMode.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.ModalMode"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__ModalMode.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnSave"><param name="Name" value="ITTFNGUI.ctl_main.OnSave"><param name="Local" value="ITTFNGUI_ctl_main_OnSave.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.OnSave"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__OnSave.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ParentForm"><param name="Name" value="ITTFNGUI.ctl_main.ParentForm"><param name="Local" value="ITTFNGUI_ctl_main_ParentForm.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.ParentForm"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__ParentForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedHeight"><param name="Name" value="ITTFNGUI.ctl_main.PrefferedHeight"><param name="Local" value="ITTFNGUI_ctl_main_PrefferedHeight.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedWidth"><param name="Name" value="ITTFNGUI.ctl_main.PrefferedWidth"><param name="Local" value="ITTFNGUI_ctl_main_PrefferedWidth.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SetupStatusMenu"><param name="Name" value="ITTFNGUI.ctl_main.SetupStatusMenu"><param name="Local" value="ITTFNGUI_ctl_main_SetupStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="StatusMenuCount"><param name="Name" value="ITTFNGUI.ctl_main.StatusMenuCount"><param name="Local" value="ITTFNGUI_ctl_main_StatusMenuCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frm_main"><param name="Name" value="ITTFNGUI.frm_main"><param name="Local" value="ITTFNGUI_frm_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BeforeChangeStatus"><param name="Name" value="ITTFNGUI.frm_main.BeforeChangeStatus"><param name="Local" value="ITTFNGUI_frm_main_BeforeChangeStatus.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsNew"><param name="Name" value="ITTFNGUI.frm_main.CheckIsNew"><param name="Local" value="ITTFNGUI_frm_main_CheckIsNew.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsOk"><param name="Name" value="ITTFNGUI.frm_main.CheckIsOk"><param name="Local" value="ITTFNGUI_frm_main_CheckIsOk.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTFN_MAX_"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_"><param name="Local" value="ITTFNGUI_frmITTFN_MAX_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdCancel_Click"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.cmdCancel_Click"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__cmdCancel_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdOK_Click"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.cmdOK_Click"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__cmdOK_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Activate"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.Form_Activate"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__Form_Activate.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="form_DblCLick"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.form_DblCLick"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__form_DblCLick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Load"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.Form_Load"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__Form_Load.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Resize"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.Form_Resize"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__Form_Resize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Unload"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.Form_Unload"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__Form_Unload.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="NotFirstTime"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.NotFirstTime"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__NotFirstTime.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OK"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.OK"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__OK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnInit"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.OnInit"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__OnInit.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.OnInit"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__OnInit.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="panel_Changed"><param name="Name" value="ITTFNGUI.frmITTFN_MAX_.panel_Changed"><param name="Local" value="ITTFNGUI_frmITTFN_MAX__panel_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUI"><param name="Name" value="ITTFNGUI.GUI"><param name="Local" value="ITTFNGUI_GUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CloseClass"><param name="Name" value="ITTFNGUI.GUI.CloseClass"><param name="Local" value="ITTFNGUI_GUI_CloseClass.htm"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.CloseClass"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__CloseClass.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="EraseForm"><param name="Name" value="ITTFNGUI.GUI.EraseForm"><param name="Local" value="ITTFNGUI_GUI_EraseForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormCount"><param name="Name" value="ITTFNGUI.GUI.FormCount"><param name="Local" value="ITTFNGUI_GUI_FormCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUIPath"><param name="Name" value="ITTFNGUI.GUI.GUIPath"><param name="Local" value="ITTFNGUI_GUI_GUIPath.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsModal"><param name="Name" value="ITTFNGUI.GUI.IsModal"><param name="Local" value="ITTFNGUI_GUI_IsModal.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Name" value="ITTFNGUI.GUI.Show"><param name="Local" value="ITTFNGUI_GUI_Show.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ShowAddForm"><param name="Name" value="ITTFNGUI.GUI.ShowAddForm"><param name="Local" value="ITTFNGUI_GUI_ShowAddForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTFN_MAX"><param name="Name" value="ITTFNGUI.ITTFN_MAX"><param name="Local" value="ITTFNGUI_ITTFN_MAX.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Changed"><param name="Name" value="ITTFNGUI.ITTFN_MAX.Changed"><param name="Local" value="ITTFNGUI_ITTFN_MAX_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Customize"><param name="Name" value="ITTFNGUI.ITTFN_MAX.Customize"><param name="Local" value="ITTFNGUI_ITTFN_MAX_Customize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Enabled"><param name="Name" value="ITTFNGUI.ITTFN_MAX.Enabled"><param name="Local" value="ITTFNGUI_ITTFN_MAX_Enabled.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="InitPanel"><param name="Name" value="ITTFNGUI.ITTFN_MAX.InitPanel"><param name="Local" value="ITTFNGUI_ITTFN_MAX_InitPanel.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalSize"><param name="Name" value="ITTFNGUI.ITTFN_MAX.OptimalSize"><param name="Local" value="ITTFNGUI_ITTFN_MAX_OptimalSize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalY"><param name="Name" value="ITTFNGUI.ITTFN_MAX.OptimalY"><param name="Local" value="ITTFNGUI_ITTFN_MAX_OptimalY.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PanelCustomisationString"><param name="Name" value="ITTFNGUI.ITTFN_MAX.PanelCustomisationString"><param name="Local" value="ITTFNGUI_ITTFN_MAX_PanelCustomisationString.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Name" value="ITTFNGUI.ITTFN_MAX.Save"><param name="Local" value="ITTFNGUI_ITTFN_MAX_Save.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Util"><param name="Name" value="ITTFNGUI.Util"><param name="Local" value="ITTFNGUI_Util.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormByName"><param name="Name" value="ITTFNGUI.Util.FormByName"><param name="Local" value="ITTFNGUI_Util_FormByName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromBuffer"><param name="Name" value="ITTFNGUI.Util.GetFromBuffer"><param name="Local" value="ITTFNGUI_Util_GetFromBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SaveToBuffer"><param name="Name" value="ITTFNGUI.Util.SaveToBuffer"><param name="Local" value="ITTFNGUI_Util_SaveToBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTFN_MAX_"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnClick"><param name="Name" value="ITTFNGUI.vpnITTFN_MAX_.OnClick"><param name="Local" value="ITTFNGUI_vpnITTFN_MAX__OnClick.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,128 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="ITTSSCCGUI"><param name="Name" value="ITTSSCCGUI"><param name="Local" value="ITTSSCCGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctl_main"><param name="Name" value="ITTSSCCGUI.ctl_main"><param name="Local" value="ITTSSCCGUI_ctl_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckStatusMenu"><param name="Name" value="ITTSSCCGUI.ctl_main.CheckStatusMenu"><param name="Local" value="ITTSSCCGUI_ctl_main_CheckStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Host"><param name="Name" value="ITTSSCCGUI.ctl_main.Host"><param name="Local" value="ITTSSCCGUI_ctl_main_Host.htm"><param name="Name" value="ITTSSCCGUI.frm_main.Host"><param name="Local" value="ITTSSCCGUI_frm_main_Host.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Init"><param name="Name" value="ITTSSCCGUI.ctl_main.Init"><param name="Local" value="ITTSSCCGUI_ctl_main_Init.htm"><param name="Name" value="ITTSSCCGUI.frm_main.Init"><param name="Local" value="ITTSSCCGUI_frm_main_Init.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsChanged"><param name="Name" value="ITTSSCCGUI.ctl_main.IsChanged"><param name="Local" value="ITTSSCCGUI_ctl_main_IsChanged.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.IsChanged"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_IsChanged.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.IsChanged"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_IsChanged.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.IsChanged"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__IsChanged.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.IsChanged"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__IsChanged.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsOK"><param name="Name" value="ITTSSCCGUI.ctl_main.IsOK"><param name="Local" value="ITTSSCCGUI_ctl_main_IsOK.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.IsOK"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_IsOK.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.IsOK"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_IsOK.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.IsOK"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__IsOK.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.IsOK"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__IsOK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Name" value="ITTSSCCGUI.ctl_main.item"><param name="Local" value="ITTSSCCGUI_ctl_main_item.htm"><param name="Name" value="ITTSSCCGUI.frm_main.item"><param name="Local" value="ITTSSCCGUI_frm_main_item.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.item"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__item.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.item"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__item.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.item"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_item.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.item"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_item.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.item"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__item.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.item"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__item.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ModalMode"><param name="Name" value="ITTSSCCGUI.ctl_main.ModalMode"><param name="Local" value="ITTSSCCGUI_ctl_main_ModalMode.htm"><param name="Name" value="ITTSSCCGUI.frm_main.ModalMode"><param name="Local" value="ITTSSCCGUI_frm_main_ModalMode.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.ModalMode"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__ModalMode.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.ModalMode"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__ModalMode.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnSave"><param name="Name" value="ITTSSCCGUI.ctl_main.OnSave"><param name="Local" value="ITTSSCCGUI_ctl_main_OnSave.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.OnSave"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__OnSave.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.OnSave"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__OnSave.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ParentForm"><param name="Name" value="ITTSSCCGUI.ctl_main.ParentForm"><param name="Local" value="ITTSSCCGUI_ctl_main_ParentForm.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.ParentForm"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__ParentForm.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.ParentForm"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__ParentForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedHeight"><param name="Name" value="ITTSSCCGUI.ctl_main.PrefferedHeight"><param name="Local" value="ITTSSCCGUI_ctl_main_PrefferedHeight.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedWidth"><param name="Name" value="ITTSSCCGUI.ctl_main.PrefferedWidth"><param name="Local" value="ITTSSCCGUI_ctl_main_PrefferedWidth.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SetupStatusMenu"><param name="Name" value="ITTSSCCGUI.ctl_main.SetupStatusMenu"><param name="Local" value="ITTSSCCGUI_ctl_main_SetupStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="StatusMenuCount"><param name="Name" value="ITTSSCCGUI.ctl_main.StatusMenuCount"><param name="Local" value="ITTSSCCGUI_ctl_main_StatusMenuCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frm_main"><param name="Name" value="ITTSSCCGUI.frm_main"><param name="Local" value="ITTSSCCGUI_frm_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BeforeChangeStatus"><param name="Name" value="ITTSSCCGUI.frm_main.BeforeChangeStatus"><param name="Local" value="ITTSSCCGUI_frm_main_BeforeChangeStatus.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsNew"><param name="Name" value="ITTSSCCGUI.frm_main.CheckIsNew"><param name="Local" value="ITTSSCCGUI_frm_main_CheckIsNew.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsOk"><param name="Name" value="ITTSSCCGUI.frm_main.CheckIsOk"><param name="Local" value="ITTSSCCGUI_frm_main_CheckIsOk.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTSSCC_DEF_"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdCancel_Click"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.cmdCancel_Click"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__cmdCancel_Click.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.cmdCancel_Click"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__cmdCancel_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdOK_Click"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.cmdOK_Click"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__cmdOK_Click.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.cmdOK_Click"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__cmdOK_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Activate"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.Form_Activate"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__Form_Activate.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.Form_Activate"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__Form_Activate.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="form_DblCLick"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.form_DblCLick"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__form_DblCLick.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.form_DblCLick"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__form_DblCLick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Load"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.Form_Load"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__Form_Load.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.Form_Load"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__Form_Load.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Resize"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.Form_Resize"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__Form_Resize.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.Form_Resize"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__Form_Resize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Unload"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.Form_Unload"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__Form_Unload.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.Form_Unload"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__Form_Unload.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="NotFirstTime"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.NotFirstTime"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__NotFirstTime.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.NotFirstTime"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__NotFirstTime.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OK"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.OK"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__OK.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.OK"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__OK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnInit"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.OnInit"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__OnInit.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.OnInit"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__OnInit.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.OnInit"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__OnInit.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.OnInit"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__OnInit.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="panel_Changed"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_DEF_.panel_Changed"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_DEF__panel_Changed.htm"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_.panel_Changed"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE__panel_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTSSCC_LINE_"><param name="Name" value="ITTSSCCGUI.frmITTSSCC_LINE_"><param name="Local" value="ITTSSCCGUI_frmITTSSCC_LINE_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUI"><param name="Name" value="ITTSSCCGUI.GUI"><param name="Local" value="ITTSSCCGUI_GUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CloseClass"><param name="Name" value="ITTSSCCGUI.GUI.CloseClass"><param name="Local" value="ITTSSCCGUI_GUI_CloseClass.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.CloseClass"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__CloseClass.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.CloseClass"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__CloseClass.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="EraseForm"><param name="Name" value="ITTSSCCGUI.GUI.EraseForm"><param name="Local" value="ITTSSCCGUI_GUI_EraseForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormCount"><param name="Name" value="ITTSSCCGUI.GUI.FormCount"><param name="Local" value="ITTSSCCGUI_GUI_FormCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUIPath"><param name="Name" value="ITTSSCCGUI.GUI.GUIPath"><param name="Local" value="ITTSSCCGUI_GUI_GUIPath.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsModal"><param name="Name" value="ITTSSCCGUI.GUI.IsModal"><param name="Local" value="ITTSSCCGUI_GUI_IsModal.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Name" value="ITTSSCCGUI.GUI.Show"><param name="Local" value="ITTSSCCGUI_GUI_Show.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ShowAddForm"><param name="Name" value="ITTSSCCGUI.GUI.ShowAddForm"><param name="Local" value="ITTSSCCGUI_GUI_ShowAddForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTSSCC_DEF"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Changed"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.Changed"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_Changed.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.Changed"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Customize"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.Customize"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_Customize.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.Customize"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_Customize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Enabled"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.Enabled"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_Enabled.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.Enabled"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_Enabled.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="InitPanel"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.InitPanel"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_InitPanel.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.InitPanel"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_InitPanel.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalSize"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.OptimalSize"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_OptimalSize.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.OptimalSize"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_OptimalSize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalY"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.OptimalY"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_OptimalY.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.OptimalY"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_OptimalY.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PanelCustomisationString"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.PanelCustomisationString"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_PanelCustomisationString.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.PanelCustomisationString"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_PanelCustomisationString.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Name" value="ITTSSCCGUI.ITTSSCC_DEF.Save"><param name="Local" value="ITTSSCCGUI_ITTSSCC_DEF_Save.htm"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE.Save"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE_Save.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTSSCC_LINE"><param name="Name" value="ITTSSCCGUI.ITTSSCC_LINE"><param name="Local" value="ITTSSCCGUI_ITTSSCC_LINE.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Util"><param name="Name" value="ITTSSCCGUI.Util"><param name="Local" value="ITTSSCCGUI_Util.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormByName"><param name="Name" value="ITTSSCCGUI.Util.FormByName"><param name="Local" value="ITTSSCCGUI_Util_FormByName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromBuffer"><param name="Name" value="ITTSSCCGUI.Util.GetFromBuffer"><param name="Local" value="ITTSSCCGUI_Util_GetFromBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SaveToBuffer"><param name="Name" value="ITTSSCCGUI.Util.SaveToBuffer"><param name="Local" value="ITTSSCCGUI_Util_SaveToBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTSSCC_DEF_"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnClick"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_DEF_.OnClick"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_DEF__OnClick.htm"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_.OnClick"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE__OnClick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTSSCC_LINE_"><param name="Name" value="ITTSSCCGUI.vpnITTSSCC_LINE_"><param name="Local" value="ITTSSCCGUI_vpnITTSSCC_LINE_.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>

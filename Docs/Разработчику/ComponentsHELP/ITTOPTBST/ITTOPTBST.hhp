@@ -1,0 +1,32 @@
+[Options]
+Compatibility = 1.1 Or later
+Compiled file = ITTOPTBST.chm
+Contents file = ITTOPTBST.hhc
+Default Window = helpwindow
+Default topic = ITTOPTBST.htm
+Display compile progress=No
+index file = ITTOPTBST.hhk
+Language=0x419 Русский
+Full-text search=Yes
+Title=
+
+[Windows]
+helpwindow=,"ITTOPTBST.hhc","ITTOPTBST.hhk","ITTOPTBST.htm",,,,,,0x23521,,0x304e,[0,0,600,400],,,,,,,0
+
+[MAP]
+#include ITTOPTBST.h
+
+[Files]
+ITTOPTBST.htm
+ITTOPTBST_BEFORESTATUS.htm
+ITTOPTBST_BEFORESTATUS_Check.htm
+ITTOPTBST_BEFORESTATUS_MyRound.htm
+ITTOPTBST_BEFORESTATUS_MyRound2.htm
+
+[ALIAS]
+ITTOPTBST=ITTOPTBST.htm
+ITTOPTBST_BEFORESTATUS=ITTOPTBST_BEFORESTATUS.htm
+ITTOPTBST_BEFORESTATUS_CHECK=ITTOPTBST_BEFORESTATUS_Check.htm
+ITTOPTBST_BEFORESTATUS_MYROUND=ITTOPTBST_BEFORESTATUS_MyRound.htm
+ITTOPTBST_BEFORESTATUS_MYROUND2=ITTOPTBST_BEFORESTATUS_MyRound2.htm
+

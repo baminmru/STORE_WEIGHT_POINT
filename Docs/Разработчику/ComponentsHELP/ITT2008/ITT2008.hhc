@@ -1,0 +1,1434 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITT2008">
+<param name="Local" value="ITT2008.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="barcode">
+<param name="Local" value="ITT2008_barcode.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="code128">
+<param name="Local" value="ITT2008_barcode_code128.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DBuffer">
+<param name="Local" value="ITT2008_DBuffer.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DateOf">
+<param name="Local" value="ITT2008_DBuffer_DateOf.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="id">
+<param name="Local" value="ITT2008_DBuffer_id.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_DBuffer_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="ITT2008_DBuffer_Name.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_DBuffer_OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ordItem">
+<param name="Local" value="ITT2008_DBuffer_ordItem.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Volume">
+<param name="Local" value="ITT2008_DBuffer_Volume.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormulaData">
+<param name="Local" value="ITT2008_FormulaData.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expression">
+<param name="Local" value="ITT2008_FormulaData_Expression.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="ITT2008_FormulaData_Name.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Formulas">
+<param name="Local" value="ITT2008_Formulas.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITT2008_Formulas_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITT2008_Formulas_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_Formulas_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NewEnum">
+<param name="Local" value="ITT2008_Formulas_NewEnum.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITT2008_Formulas_Remove.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmAbout">
+<param name="Local" value="ITT2008_frmAbout.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmAddPalette">
+<param name="Local" value="ITT2008_frmAddPalette.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmAssemblyWizard">
+<param name="Local" value="ITT2008_frmAssemblyWizard.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetWeight4">
+<param name="Local" value="ITT2008_frmAssemblyWizard_GetWeight4.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmAuto">
+<param name="Local" value="ITT2008_frmAuto.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmChooseRole">
+<param name="Local" value="ITT2008_frmChooseRole.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmChooseRole_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmCoreSetup">
+<param name="Local" value="ITT2008_frmCoreSetup.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmDate">
+<param name="Local" value="ITT2008_frmDate.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmDate_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmDates">
+<param name="Local" value="ITT2008_frmDates.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmDates_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmGetCell">
+<param name="Local" value="ITT2008_frmGetCell.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="country">
+<param name="Local" value="ITT2008_frmGetCell_country.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="factory">
+<param name="Local" value="ITT2008_frmGetCell_factory.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="itemid">
+<param name="Local" value="ITT2008_frmGetCell_itemid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="killplace">
+<param name="Local" value="ITT2008_frmGetCell_killplace.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmGetCell_OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OutCode">
+<param name="Local" value="ITT2008_frmGetCell_OutCode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OUtID">
+<param name="Local" value="ITT2008_frmGetCell_OUtID.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmInPrint">
+<param name="Local" value="ITT2008_frmInPrint.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmInPrint_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmInWiz2">
+<param name="Local" value="ITT2008_frmInWiz2.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Before1">
+<param name="Local" value="ITT2008_frmInWiz2_Before1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Before2">
+<param name="Local" value="ITT2008_frmInWiz2_Before2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetWeight4">
+<param name="Local" value="ITT2008_frmInWiz2_GetWeight4.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmInWiz2_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InPoddon">
+<param name="Local" value="ITT2008_frmInWiz2_InPoddon.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InWeight">
+<param name="Local" value="ITT2008_frmInWiz2_InWeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmInWiz2_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NoMSG">
+<param name="Local" value="ITT2008_frmInWiz2_NoMSG.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProcessStatus">
+<param name="Local" value="ITT2008_frmInWiz2_ProcessStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SinglePoddon">
+<param name="Local" value="ITT2008_frmInWiz2_SinglePoddon.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StepNo">
+<param name="Local" value="ITT2008_frmInWiz2_StepNo.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITT2OPT">
+<param name="Local" value="ITT2008_frmITT2OPT.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITT2008_frmITT2OPT_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmITT2OPT_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmITT2OPT_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmITT2OPT_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTCS">
+<param name="Local" value="ITT2008_frmITTCS.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITT2008_frmITTCS_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmITTCS_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmITTCS_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmITTCS_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTIN">
+<param name="Local" value="ITT2008_frmITTIN.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITT2008_frmITTIN_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmITTIN_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmITTIN_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmITTIN_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOPT">
+<param name="Local" value="ITT2008_frmITTOPT.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITT2008_frmITTOPT_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmITTOPT_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmITTOPT_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmITTOPT_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTOUT">
+<param name="Local" value="ITT2008_frmITTOUT.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITT2008_frmITTOUT_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmITTOUT_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmITTOUT_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmITTOUT_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmITTPL">
+<param name="Local" value="ITT2008_frmITTPL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITT2008_frmITTPL_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmITTPL_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmITTPL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmITTPL_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmJournalShow">
+<param name="Local" value="ITT2008_frmJournalShow.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnAdd">
+<param name="Local" value="ITT2008_frmJournalShow_OnAdd.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClearFilter">
+<param name="Local" value="ITT2008_frmJournalShow_OnClearFilter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnDel">
+<param name="Local" value="ITT2008_frmJournalShow_OnDel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnEdit">
+<param name="Local" value="ITT2008_frmJournalShow_OnEdit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnFilter">
+<param name="Local" value="ITT2008_frmJournalShow_OnFilter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITT2008_frmJournalShow_OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnPrint">
+<param name="Local" value="ITT2008_frmJournalShow_OnPrint.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnRun">
+<param name="Local" value="ITT2008_frmJournalShow_OnRun.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmJournalShow2">
+<param name="Local" value="ITT2008_frmJournalShow2.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnAdd">
+<param name="Local" value="ITT2008_frmJournalShow2_OnAdd.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClearFilter">
+<param name="Local" value="ITT2008_frmJournalShow2_OnClearFilter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnDel">
+<param name="Local" value="ITT2008_frmJournalShow2_OnDel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnEdit">
+<param name="Local" value="ITT2008_frmJournalShow2_OnEdit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnFilter">
+<param name="Local" value="ITT2008_frmJournalShow2_OnFilter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="ITT2008_frmJournalShow2_OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnPrint">
+<param name="Local" value="ITT2008_frmJournalShow2_OnPrint.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnRun">
+<param name="Local" value="ITT2008_frmJournalShow2_OnRun.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmLocSize">
+<param name="Local" value="ITT2008_frmLocSize.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmLocSize_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmLogin">
+<param name="Local" value="ITT2008_frmLogin.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetUser">
+<param name="Local" value="ITT2008_frmLogin_GetUser.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmLogin_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmMain">
+<param name="Local" value="ITT2008_frmMain.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="On_Load">
+<param name="Local" value="ITT2008_frmMain_On_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SynchronizeARMDescription">
+<param name="Local" value="ITT2008_frmMain_SynchronizeARMDescription.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmMakeOtbor">
+<param name="Local" value="ITT2008_frmMakeOtbor.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmMovings">
+<param name="Local" value="ITT2008_frmMovings.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="movetask">
+<param name="Local" value="ITT2008_frmMovings_movetask.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmObj">
+<param name="Local" value="ITT2008_frmObj.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="c">
+<param name="Local" value="ITT2008_frmObj_c.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsNew">
+<param name="Local" value="ITT2008_frmObj_CheckIsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsOk">
+<param name="Local" value="ITT2008_frmObj_CheckIsOk.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="ITT2008_frmObj_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_frmObj_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2008_frmObj_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PreLoadState">
+<param name="Local" value="ITT2008_frmObj_PreLoadState.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TestLock">
+<param name="Local" value="ITT2008_frmObj_TestLock.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmOutPrint">
+<param name="Local" value="ITT2008_frmOutPrint.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmOutPrint_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmOutWiz">
+<param name="Local" value="ITT2008_frmOutWiz.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetWeight4">
+<param name="Local" value="ITT2008_frmOutWiz_GetWeight4.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmPrintSticker">
+<param name="Local" value="ITT2008_frmPrintSticker.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmPrintSticker_OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="poddon">
+<param name="Local" value="ITT2008_frmPrintSticker_poddon.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmPrnSetup">
+<param name="Local" value="ITT2008_frmPrnSetup.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmReport">
+<param name="Local" value="ITT2008_frmReport.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="rpt">
+<param name="Local" value="ITT2008_frmReport_rpt.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmSetup">
+<param name="Local" value="ITT2008_frmSetup.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmSplash">
+<param name="Local" value="ITT2008_frmSplash.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmSplitWizard">
+<param name="Local" value="ITT2008_frmSplitWizard.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetWeight4">
+<param name="Local" value="ITT2008_frmSplitWizard_GetWeight4.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmStickerRpt">
+<param name="Local" value="ITT2008_frmStickerRpt.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2008_frmStickerRpt_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmUpdateCore">
+<param name="Local" value="ITT2008_frmUpdateCore.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmWizPoddons">
+<param name="Local" value="ITT2008_frmWizPoddons.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetWeight4">
+<param name="Local" value="ITT2008_frmWizPoddons_GetWeight4.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmWSetup">
+<param name="Local" value="ITT2008_frmWSetup.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmXL">
+<param name="Local" value="ITT2008_frmXL.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUI">
+<param name="Local" value="ITT2008_GUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITT2008_GUI_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseForm">
+<param name="Local" value="ITT2008_GUI_EraseForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormCount">
+<param name="Local" value="ITT2008_GUI_FormCount.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GuiPath">
+<param name="Local" value="ITT2008_GUI_GuiPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="INIT">
+<param name="Local" value="ITT2008_GUI_INIT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsModal">
+<param name="Local" value="ITT2008_GUI_IsModal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Show">
+<param name="Local" value="ITT2008_GUI_Show.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShowAddForm">
+<param name="Local" value="ITT2008_GUI_ShowAddForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="itt">
+<param name="Local" value="ITT2008_itt.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanRCVAtCore">
+<param name="Local" value="ITT2008_itt_CleanRCVAtCore.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ConnExec">
+<param name="Local" value="ITT2008_itt_ConnExec.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindPoddon">
+<param name="Local" value="ITT2008_itt_FindPoddon.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetBRIEFFromXMLField">
+<param name="Local" value="ITT2008_itt_GetBRIEFFromXMLField.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MyRound">
+<param name="Local" value="ITT2008_itt_MyRound.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MyRound2">
+<param name="Local" value="ITT2008_itt_MyRound2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrintSticker">
+<param name="Local" value="ITT2008_itt_PrintSticker.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveRCVRowToCore">
+<param name="Local" value="ITT2008_itt_SaveRCVRowToCore.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveShipRowToCore">
+<param name="Local" value="ITT2008_itt_SaveShipRowToCore.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UpdateMyPalet">
+<param name="Local" value="ITT2008_itt_UpdateMyPalet.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="launcher">
+<param name="Local" value="ITT2008_launcher.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DrawText">
+<param name="Local" value="ITT2008_launcher_DrawText.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ERROR_ACCESS_DENIED">
+<param name="Local" value="ITT2008_launcher_ERROR_ACCESS_DENIED.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ERROR_NO_MORE_ITEMS">
+<param name="Local" value="ITT2008_launcher_ERROR_NO_MORE_ITEMS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ERROR_SUCCESS">
+<param name="Local" value="ITT2008_launcher_ERROR_SUCCESS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FlashWindow">
+<param name="Local" value="ITT2008_launcher_FlashWindow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetCaretBlinkTime">
+<param name="Local" value="ITT2008_launcher_GetCaretBlinkTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetCurrentProcess">
+<param name="Local" value="ITT2008_launcher_GetCurrentProcess.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetUser">
+<param name="Local" value="ITT2008_launcher_GetUser.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetUserName">
+<param name="Local" value="ITT2008_launcher_GetUserName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GWL_STYLE">
+<param name="Local" value="ITT2008_launcher_GWL_STYLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HKEY_CLASSES_ROOT">
+<param name="Local" value="ITT2008_launcher_HKEY_CLASSES_ROOT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HKEY_CURRENT_CONFIG">
+<param name="Local" value="ITT2008_launcher_HKEY_CURRENT_CONFIG.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HKEY_CURRENT_USER">
+<param name="Local" value="ITT2008_launcher_HKEY_CURRENT_USER.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HKEY_DYN_DATA">
+<param name="Local" value="ITT2008_launcher_HKEY_DYN_DATA.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HKEY_LOCAL_MACHINE">
+<param name="Local" value="ITT2008_launcher_HKEY_LOCAL_MACHINE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HKEY_USERS">
+<param name="Local" value="ITT2008_launcher_HKEY_USERS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HWND_TOP">
+<param name="Local" value="ITT2008_launcher_HWND_TOP.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HWND_TOPMOST">
+<param name="Local" value="ITT2008_launcher_HWND_TOPMOST.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_ALL_ACCESS">
+<param name="Local" value="ITT2008_launcher_KEY_ALL_ACCESS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_CREATE_LINK">
+<param name="Local" value="ITT2008_launcher_KEY_CREATE_LINK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_CREATE_SUB_KEY">
+<param name="Local" value="ITT2008_launcher_KEY_CREATE_SUB_KEY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_ENUMERATE_SUB_KEYS">
+<param name="Local" value="ITT2008_launcher_KEY_ENUMERATE_SUB_KEYS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_NOTIFY">
+<param name="Local" value="ITT2008_launcher_KEY_NOTIFY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_QUERY_VALUE">
+<param name="Local" value="ITT2008_launcher_KEY_QUERY_VALUE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KEY_SET_VALUE">
+<param name="Local" value="ITT2008_launcher_KEY_SET_VALUE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIF_DOALL">
+<param name="Local" value="ITT2008_launcher_NIF_DOALL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIF_ICON">
+<param name="Local" value="ITT2008_launcher_NIF_ICON.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIF_MESSAGE">
+<param name="Local" value="ITT2008_launcher_NIF_MESSAGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIF_TIP">
+<param name="Local" value="ITT2008_launcher_NIF_TIP.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIM_ADD">
+<param name="Local" value="ITT2008_launcher_NIM_ADD.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIM_DELETE">
+<param name="Local" value="ITT2008_launcher_NIM_DELETE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NIM_MODIFY">
+<param name="Local" value="ITT2008_launcher_NIM_MODIFY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_BINARY">
+<param name="Local" value="ITT2008_launcher_REG_BINARY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_CREATED_NEW_KEY">
+<param name="Local" value="ITT2008_launcher_REG_CREATED_NEW_KEY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_DWORD">
+<param name="Local" value="ITT2008_launcher_REG_DWORD.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_DWORD_BIG_ENDIAN">
+<param name="Local" value="ITT2008_launcher_REG_DWORD_BIG_ENDIAN.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_DWORD_LITTLE_ENDIAN">
+<param name="Local" value="ITT2008_launcher_REG_DWORD_LITTLE_ENDIAN.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_EXPAND_SZ">
+<param name="Local" value="ITT2008_launcher_REG_EXPAND_SZ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_FULL_RESOURCE_DESCRIPTOR">
+<param name="Local" value="ITT2008_launcher_REG_FULL_RESOURCE_DESCRIPTOR.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_LINK">
+<param name="Local" value="ITT2008_launcher_REG_LINK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_MULTI_SZ">
+<param name="Local" value="ITT2008_launcher_REG_MULTI_SZ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_NONE">
+<param name="Local" value="ITT2008_launcher_REG_NONE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_OPENED_EXISTING_KEY">
+<param name="Local" value="ITT2008_launcher_REG_OPENED_EXISTING_KEY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_OPTION_NON_VOLATILE">
+<param name="Local" value="ITT2008_launcher_REG_OPTION_NON_VOLATILE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_OPTION_VOLATILE">
+<param name="Local" value="ITT2008_launcher_REG_OPTION_VOLATILE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_RESOURCE_LIST">
+<param name="Local" value="ITT2008_launcher_REG_RESOURCE_LIST.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_RESOURCE_REQUIREMENTS_LIST">
+<param name="Local" value="ITT2008_launcher_REG_RESOURCE_REQUIREMENTS_LIST.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="REG_SZ">
+<param name="Local" value="ITT2008_launcher_REG_SZ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegCloseKey">
+<param name="Local" value="ITT2008_launcher_RegCloseKey.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegCreateKeyEx">
+<param name="Local" value="ITT2008_launcher_RegCreateKeyEx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegDeleteKey">
+<param name="Local" value="ITT2008_launcher_RegDeleteKey.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegDeleteValue">
+<param name="Local" value="ITT2008_launcher_RegDeleteValue.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegEnumKeyEx">
+<param name="Local" value="ITT2008_launcher_RegEnumKeyEx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegEnumValue">
+<param name="Local" value="ITT2008_launcher_RegEnumValue.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegOpenKeyEx">
+<param name="Local" value="ITT2008_launcher_RegOpenKeyEx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegQueryValueEx">
+<param name="Local" value="ITT2008_launcher_RegQueryValueEx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegSetValueEx">
+<param name="Local" value="ITT2008_launcher_RegSetValueEx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetWindowPos">
+<param name="Local" value="ITT2008_launcher_SetWindowPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Shell_NotifyIcon">
+<param name="Local" value="ITT2008_launcher_Shell_NotifyIcon.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SPECIFIC_RIGHTS_ALL">
+<param name="Local" value="ITT2008_launcher_SPECIFIC_RIGHTS_ALL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="STANDARD_RIGHTS_ALL">
+<param name="Local" value="ITT2008_launcher_STANDARD_RIGHTS_ALL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_HIDE">
+<param name="Local" value="ITT2008_launcher_SW_HIDE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_MAXIMIZE">
+<param name="Local" value="ITT2008_launcher_SW_MAXIMIZE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_MINIMIZE">
+<param name="Local" value="ITT2008_launcher_SW_MINIMIZE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_RESTORE">
+<param name="Local" value="ITT2008_launcher_SW_RESTORE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOW">
+<param name="Local" value="ITT2008_launcher_SW_SHOW.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOWMAXIMIZED">
+<param name="Local" value="ITT2008_launcher_SW_SHOWMAXIMIZED.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOWMINIMIZED">
+<param name="Local" value="ITT2008_launcher_SW_SHOWMINIMIZED.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOWMINNOACTIVE">
+<param name="Local" value="ITT2008_launcher_SW_SHOWMINNOACTIVE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOWNA">
+<param name="Local" value="ITT2008_launcher_SW_SHOWNA.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOWNOACTIVATE">
+<param name="Local" value="ITT2008_launcher_SW_SHOWNOACTIVATE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SW_SHOWNORMAL">
+<param name="Local" value="ITT2008_launcher_SW_SHOWNORMAL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SWP_FRAMECHANGED">
+<param name="Local" value="ITT2008_launcher_SWP_FRAMECHANGED.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SWP_NOMOVE">
+<param name="Local" value="ITT2008_launcher_SWP_NOMOVE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SWP_NOSIZE">
+<param name="Local" value="ITT2008_launcher_SWP_NOSIZE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SWP_NOZORDER">
+<param name="Local" value="ITT2008_launcher_SWP_NOZORDER.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SWP_SHOWWINDOW">
+<param name="Local" value="ITT2008_launcher_SWP_SHOWWINDOW.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TerminateProcess">
+<param name="Local" value="ITT2008_launcher_TerminateProcess.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WM_LBUTTONDBLCLK">
+<param name="Local" value="ITT2008_launcher_WM_LBUTTONDBLCLK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WM_LBUTTONDOWN">
+<param name="Local" value="ITT2008_launcher_WM_LBUTTONDOWN.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WM_MOUSEMOVE">
+<param name="Local" value="ITT2008_launcher_WM_MOUSEMOVE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WM_RBUTTONDOWN">
+<param name="Local" value="ITT2008_launcher_WM_RBUTTONDOWN.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="mailSupport">
+<param name="Local" value="ITT2008_mailSupport.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MailThisFile">
+<param name="Local" value="ITT2008_mailSupport_MailThisFile.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="mnuStub">
+<param name="Local" value="ITT2008_mnuStub.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Caption">
+<param name="Local" value="ITT2008_mnuStub_Caption.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Checked">
+<param name="Local" value="ITT2008_mnuStub_Checked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="ITT2008_mnuStub_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Tag">
+<param name="Local" value="ITT2008_mnuStub_Tag.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Visible">
+<param name="Local" value="ITT2008_mnuStub_Visible.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Module1">
+<param name="Local" value="ITT2008_Module1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddSQLRefIds">
+<param name="Local" value="ITT2008_Module1_AddSQLRefIds.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DeltaReminder">
+<param name="Local" value="ITT2008_Module1_DeltaReminder.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindCountry">
+<param name="Local" value="ITT2008_Module1_FindCountry.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindFactory">
+<param name="Local" value="ITT2008_Module1_FindFactory.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindKill">
+<param name="Local" value="ITT2008_Module1_FindKill.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindPartia">
+<param name="Local" value="ITT2008_Module1_FindPartia.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTDic">
+<param name="Local" value="ITT2008_Module1_ITTDic.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LastChat">
+<param name="Local" value="ITT2008_Module1_LastChat.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Main">
+<param name="Local" value="ITT2008_Module1_Main.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manager">
+<param name="Local" value="ITT2008_Module1_Manager.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MyUser">
+<param name="Local" value="ITT2008_Module1_MyUser.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NextReminder">
+<param name="Local" value="ITT2008_Module1_NextReminder.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrintGrid">
+<param name="Local" value="ITT2008_Module1_PrintGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrivateStoreID">
+<param name="Local" value="ITT2008_Module1_PrivateStoreID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="repShowINEPL">
+<param name="Local" value="ITT2008_Module1_repShowINEPL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="repShowKL">
+<param name="Local" value="ITT2008_Module1_repShowKL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="repShowMoves">
+<param name="Local" value="ITT2008_Module1_repShowMoves.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="repShowOL">
+<param name="Local" value="ITT2008_Module1_repShowOL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="repShowSRVIN">
+<param name="Local" value="ITT2008_Module1_repShowSRVIN.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="repShowSRVOUT">
+<param name="Local" value="ITT2008_Module1_repShowSRVOUT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptActVes">
+<param name="Local" value="ITT2008_Module1_RptActVes.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptHran">
+<param name="Local" value="ITT2008_Module1_RptHran.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptNedostacha">
+<param name="Local" value="ITT2008_Module1_RptNedostacha.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptOtobrano">
+<param name="Local" value="ITT2008_Module1_RptOtobrano.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptShowSRVALL">
+<param name="Local" value="ITT2008_Module1_RptShowSRVALL.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptStickers">
+<param name="Local" value="ITT2008_Module1_RptStickers.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptStok103">
+<param name="Local" value="ITT2008_Module1_RptStok103.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptVimorozka">
+<param name="Local" value="ITT2008_Module1_RptVimorozka.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptVimorozka2">
+<param name="Local" value="ITT2008_Module1_RptVimorozka2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RptWrongLocation">
+<param name="Local" value="ITT2008_Module1_RptWrongLocation.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Session">
+<param name="Local" value="ITT2008_Module1_Session.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Site">
+<param name="Local" value="ITT2008_Module1_Site.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SysStoreID">
+<param name="Local" value="ITT2008_Module1_SysStoreID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UserName">
+<param name="Local" value="ITT2008_Module1_UserName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UserPassword">
+<param name="Local" value="ITT2008_Module1_UserPassword.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UsersID">
+<param name="Local" value="ITT2008_Module1_UsersID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="usr">
+<param name="Local" value="ITT2008_Module1_usr.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ObjHolder">
+<param name="Local" value="ITT2008_ObjHolder.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="id">
+<param name="Local" value="ITT2008_ObjHolder_id.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="ITT2008_ObjHolder_Name.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ReportShow">
+<param name="Local" value="ITT2008_ReportShow.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Caption">
+<param name="Local" value="ITT2008_ReportShow_Caption.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExportPDF">
+<param name="Local" value="ITT2008_ReportShow_ExportPDF.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExportPDFDirectRS">
+<param name="Local" value="ITT2008_ReportShow_ExportPDFDirectRS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Formulas">
+<param name="Local" value="ITT2008_ReportShow_Formulas.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrinterName">
+<param name="Local" value="ITT2008_ReportShow_PrinterName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrintOut">
+<param name="Local" value="ITT2008_ReportShow_PrintOut.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ReportFilter">
+<param name="Local" value="ITT2008_ReportShow_ReportFilter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ReportPath">
+<param name="Local" value="ITT2008_ReportShow_ReportPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ReportSource">
+<param name="Local" value="ITT2008_ReportShow_ReportSource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Run">
+<param name="Local" value="ITT2008_ReportShow_Run.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RunDirectRS">
+<param name="Local" value="ITT2008_ReportShow_RunDirectRS.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RoleSupport">
+<param name="Local" value="ITT2008_RoleSupport.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ARMID">
+<param name="Local" value="ITT2008_RoleSupport_ARMID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeforeChangeStatus">
+<param name="Local" value="ITT2008_RoleSupport_BeforeChangeStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckMenu">
+<param name="Local" value="ITT2008_RoleSupport_CheckMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChooseRole">
+<param name="Local" value="ITT2008_RoleSupport_ChooseRole.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetDocumentMode">
+<param name="Local" value="ITT2008_RoleSupport_GetDocumentMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsDocDenied">
+<param name="Local" value="ITT2008_RoleSupport_IsDocDenied.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MyRole">
+<param name="Local" value="ITT2008_RoleSupport_MyRole.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RoleDocAllowDelete">
+<param name="Local" value="ITT2008_RoleSupport_RoleDocAllowDelete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RoleDocCanSwitchStatus">
+<param name="Local" value="ITT2008_RoleSupport_RoleDocCanSwitchStatus.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Util">
+<param name="Local" value="ITT2008_Util.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromSkin">
+<param name="Local" value="ITT2008_Util_LoadFromSkin.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToSkin">
+<param name="Local" value="ITT2008_Util_SaveToSkin.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Utils">
+<param name="Local" value="ITT2008_Utils.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DayOfWeek">
+<param name="Local" value="ITT2008_Utils_DayOfWeek.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DaysInMonth">
+<param name="Local" value="ITT2008_Utils_DaysInMonth.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Kop2str">
+<param name="Local" value="ITT2008_Utils_Kop2str.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MonthName">
+<param name="Local" value="ITT2008_Utils_MonthName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MonthNameI">
+<param name="Local" value="ITT2008_Utils_MonthNameI.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="parseNumber">
+<param name="Local" value="ITT2008_Utils_parseNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShellExecute">
+<param name="Local" value="ITT2008_Utils_ShellExecute.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

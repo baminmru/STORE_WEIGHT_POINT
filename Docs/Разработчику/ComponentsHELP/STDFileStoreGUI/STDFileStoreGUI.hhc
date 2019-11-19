@@ -1,0 +1,444 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="STDFileStoreGUI">
+<param name="Local" value="STDFileStoreGUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ctl_main">
+<param name="Local" value="STDFileStoreGUI_ctl_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckStatusMenu">
+<param name="Local" value="STDFileStoreGUI_ctl_main_CheckStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="STDFileStoreGUI_ctl_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="STDFileStoreGUI_ctl_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="STDFileStoreGUI_ctl_main_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_ctl_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="STDFileStoreGUI_ctl_main_ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="STDFileStoreGUI_ctl_main_OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="STDFileStoreGUI_ctl_main_ParentForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedHeight">
+<param name="Local" value="STDFileStoreGUI_ctl_main_PrefferedHeight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrefferedWidth">
+<param name="Local" value="STDFileStoreGUI_ctl_main_PrefferedWidth.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetupStatusMenu">
+<param name="Local" value="STDFileStoreGUI_ctl_main_SetupStatusMenu.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusMenuCount">
+<param name="Local" value="STDFileStoreGUI_ctl_main_StatusMenuCount.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FileDef">
+<param name="Local" value="STDFileStoreGUI_FileDef.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="STDFileStoreGUI_FileDef_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="STDFileStoreGUI_FileDef_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="STDFileStoreGUI_FileDef_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="STDFileStoreGUI_FileDef_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="STDFileStoreGUI_FileDef_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="STDFileStoreGUI_FileDef_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_FileDef_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="STDFileStoreGUI_FileDef_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="STDFileStoreGUI_FileDef_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="STDFileStoreGUI_FileDef_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="STDFileStoreGUI_FileDef_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FileVersion">
+<param name="Local" value="STDFileStoreGUI_FileVersion.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="STDFileStoreGUI_FileVersion_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customize">
+<param name="Local" value="STDFileStoreGUI_FileVersion_Customize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enabled">
+<param name="Local" value="STDFileStoreGUI_FileVersion_Enabled.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InitPanel">
+<param name="Local" value="STDFileStoreGUI_FileVersion_InitPanel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="STDFileStoreGUI_FileVersion_IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsOK">
+<param name="Local" value="STDFileStoreGUI_FileVersion_IsOK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_FileVersion_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalSize">
+<param name="Local" value="STDFileStoreGUI_FileVersion_OptimalSize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimalY">
+<param name="Local" value="STDFileStoreGUI_FileVersion_OptimalY.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PanelCustomisationString">
+<param name="Local" value="STDFileStoreGUI_FileVersion_PanelCustomisationString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="STDFileStoreGUI_FileVersion_Save.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frm_main">
+<param name="Local" value="STDFileStoreGUI_frm_main.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeforeChangeStatus">
+<param name="Local" value="STDFileStoreGUI_frm_main_BeforeChangeStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsNew">
+<param name="Local" value="STDFileStoreGUI_frm_main_CheckIsNew.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIsOk">
+<param name="Local" value="STDFileStoreGUI_frm_main_CheckIsOk.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Host">
+<param name="Local" value="STDFileStoreGUI_frm_main_Host.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="STDFileStoreGUI_frm_main_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_frm_main_item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="STDFileStoreGUI_frm_main_ModalMode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmFileDef_">
+<param name="Local" value="STDFileStoreGUI_frmFileDef_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="STDFileStoreGUI_frmFileDef__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmFileVersion_">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdCancel_Click">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__cmdCancel_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="cmdOK_Click">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__cmdOK_Click.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Activate">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__Form_Activate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="form_DblCLick">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__form_DblCLick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Load">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__Form_Load.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form_Resize">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__Form_Resize.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NotFirstTime">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__NotFirstTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__OK.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="panel_Changed">
+<param name="Local" value="STDFileStoreGUI_frmFileVersion__panel_Changed.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUI">
+<param name="Local" value="STDFileStoreGUI_GUI.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="STDFileStoreGUI_GUI_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseForm">
+<param name="Local" value="STDFileStoreGUI_GUI_EraseForm.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormCount">
+<param name="Local" value="STDFileStoreGUI_GUI_FormCount.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GUIPath">
+<param name="Local" value="STDFileStoreGUI_GUI_GUIPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsModal">
+<param name="Local" value="STDFileStoreGUI_GUI_IsModal.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Show">
+<param name="Local" value="STDFileStoreGUI_GUI_Show.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ShowAddForm">
+<param name="Local" value="STDFileStoreGUI_GUI_ShowAddForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Util">
+<param name="Local" value="STDFileStoreGUI_Util.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FormByName">
+<param name="Local" value="STDFileStoreGUI_Util_FormByName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFromBuffer">
+<param name="Local" value="STDFileStoreGUI_Util_GetFromBuffer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromSkin">
+<param name="Local" value="STDFileStoreGUI_Util_LoadFromSkin.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToBuffer">
+<param name="Local" value="STDFileStoreGUI_Util_SaveToBuffer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveToSkin">
+<param name="Local" value="STDFileStoreGUI_Util_SaveToSkin.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnFileDef_">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="STDFileStoreGUI_vpnFileDef__ParentForm.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="vpnFileVersion_">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion_.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsChanged">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__IsChanged.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="item">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ModalMode">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__ModalMode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnClick">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__OnClick.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnInit">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__OnInit.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnSave">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__OnSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ParentForm">
+<param name="Local" value="STDFileStoreGUI_vpnFileVersion__ParentForm.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

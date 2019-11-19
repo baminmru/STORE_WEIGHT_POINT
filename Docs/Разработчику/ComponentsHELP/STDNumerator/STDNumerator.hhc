@@ -1,0 +1,1074 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="STDNumerator">
+<param name="Local" value="STDNumerator.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Application.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToCash">
+<param name="Local" value="STDNumerator_Application_AddToCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Application_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AutoLoadPart">
+<param name="Local" value="STDNumerator_Application_AutoLoadPart.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="STDNumerator_Application_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="STDNumerator_Application_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Application_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Application_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Application_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Application_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="STDNumerator_Application_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Application_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="STDNumerator_Application_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FillTree">
+<param name="Local" value="STDNumerator_Application_FillTree.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Application_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindRowObject">
+<param name="Local" value="STDNumerator_Application_FindRowObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="STDNumerator_Application_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Application_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemCollection">
+<param name="Local" value="STDNumerator_Application_ItemCollection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadAll">
+<param name="Local" value="STDNumerator_Application_LoadAll.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Application_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logger">
+<param name="Local" value="STDNumerator_Application_Logger.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manager">
+<param name="Local" value="STDNumerator_Application_Manager.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZSession">
+<param name="Local" value="STDNumerator_Application_MTZSession.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="STDNumerator_Application_Name.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_head">
+<param name="Local" value="STDNumerator_Application_Num_head.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_zones">
+<param name="Local" value="STDNumerator_Application_Num_zones.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Application_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="STDNumerator_Application_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RemoveFromCash">
+<param name="Local" value="STDNumerator_Application_RemoveFromCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="STDNumerator_Application_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="STDNumerator_Application_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="STDNumerator_Application_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusID">
+<param name="Local" value="STDNumerator_Application_StatusID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusName">
+<param name="Local" value="STDNumerator_Application_StatusName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TypeName">
+<param name="Local" value="STDNumerator_Application_TypeName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Application_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WorkOffline">
+<param name="Local" value="STDNumerator_Application_WorkOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Application_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Application_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_head">
+<param name="Local" value="STDNumerator_Num_head.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="STDNumerator_Num_head_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Num_head_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="STDNumerator_Num_head_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="STDNumerator_Num_head_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Num_head_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Num_head_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Num_head_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Num_head_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="STDNumerator_Num_head_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="STDNumerator_Num_head_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="STDNumerator_Num_head_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="STDNumerator_Num_head_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Num_head_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="STDNumerator_Num_head_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="STDNumerator_Num_head_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="STDNumerator_Num_head_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Num_head_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="STDNumerator_Num_head_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Num_head_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="STDNumerator_Num_head_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Num_head_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="STDNumerator_Num_head_Name.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="STDNumerator_Num_head_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Num_head_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="STDNumerator_Num_head_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="STDNumerator_Num_head_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="STDNumerator_Num_head_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="STDNumerator_Num_head_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="STDNumerator_Num_head_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="STDNumerator_Num_head_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="STDNumerator_Num_head_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="STDNumerator_Num_head_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Shema">
+<param name="Local" value="STDNumerator_Num_head_Shema.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Num_head_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="STDNumerator_Num_head_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Num_head_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Num_head_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_head_COL">
+<param name="Local" value="STDNumerator_Num_head_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="STDNumerator_Num_head_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Num_head_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Num_head_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Num_head_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Num_head_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Num_head_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Num_head_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="STDNumerator_Num_head_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="STDNumerator_Num_head_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="STDNumerator_Num_head_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Num_head_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="STDNumerator_Num_head_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="STDNumerator_Num_head_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="STDNumerator_Num_head_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="STDNumerator_Num_head_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="STDNumerator_Num_head_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="STDNumerator_Num_head_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="STDNumerator_Num_head_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="STDNumerator_Num_head_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="STDNumerator_Num_head_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="STDNumerator_Num_head_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Num_head_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="STDNumerator_Num_head_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="STDNumerator_Num_head_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Num_head_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Num_head_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="STDNumerator_Num_head_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="STDNumerator_Num_head_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="STDNumerator_Num_head_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="STDNumerator_Num_head_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Num_head_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="STDNumerator_Num_head_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Num_head_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Num_head_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_Values">
+<param name="Local" value="STDNumerator_Num_Values.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="STDNumerator_Num_Values_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Num_Values_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="STDNumerator_Num_Values_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="STDNumerator_Num_Values_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Num_Values_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Num_Values_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Num_Values_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Num_Values_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="STDNumerator_Num_Values_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="STDNumerator_Num_Values_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="STDNumerator_Num_Values_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="STDNumerator_Num_Values_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Num_Values_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="STDNumerator_Num_Values_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="STDNumerator_Num_Values_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="STDNumerator_Num_Values_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Num_Values_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="STDNumerator_Num_Values_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Num_Values_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="STDNumerator_Num_Values_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Num_Values_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OwnerPartName">
+<param name="Local" value="STDNumerator_Num_Values_OwnerPartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OwnerRowID">
+<param name="Local" value="STDNumerator_Num_Values_OwnerRowID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="STDNumerator_Num_Values_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Num_Values_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="STDNumerator_Num_Values_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="STDNumerator_Num_Values_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="STDNumerator_Num_Values_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="STDNumerator_Num_Values_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="STDNumerator_Num_Values_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="STDNumerator_Num_Values_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="STDNumerator_Num_Values_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="STDNumerator_Num_Values_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="the_Value">
+<param name="Local" value="STDNumerator_Num_Values_the_Value.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Num_Values_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="STDNumerator_Num_Values_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Num_Values_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Num_Values_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_Values_COL">
+<param name="Local" value="STDNumerator_Num_Values_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="STDNumerator_Num_Values_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Num_Values_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Num_Values_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Num_Values_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Num_Values_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Num_Values_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Num_Values_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="STDNumerator_Num_Values_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="STDNumerator_Num_Values_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="STDNumerator_Num_Values_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Num_Values_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="STDNumerator_Num_Values_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Num_Values_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="STDNumerator_Num_Values_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="STDNumerator_Num_Values_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Num_Values_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Num_Values_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="STDNumerator_Num_Values_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="STDNumerator_Num_Values_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="STDNumerator_Num_Values_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="STDNumerator_Num_Values_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Num_Values_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="STDNumerator_Num_Values_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Num_Values_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Num_Values_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_zones">
+<param name="Local" value="STDNumerator_Num_zones.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="STDNumerator_Num_zones_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Num_zones_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="STDNumerator_Num_zones_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="STDNumerator_Num_zones_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Num_zones_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Num_zones_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Num_zones_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Num_zones_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="STDNumerator_Num_zones_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="STDNumerator_Num_zones_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="STDNumerator_Num_zones_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="STDNumerator_Num_zones_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Num_zones_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="STDNumerator_Num_zones_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="STDNumerator_Num_zones_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="STDNumerator_Num_zones_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Num_zones_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="STDNumerator_Num_zones_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Num_zones_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="STDNumerator_Num_zones_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Num_zones_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_Values">
+<param name="Local" value="STDNumerator_Num_zones_Num_Values.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="STDNumerator_Num_zones_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Num_zones_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="STDNumerator_Num_zones_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="STDNumerator_Num_zones_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="STDNumerator_Num_zones_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="STDNumerator_Num_zones_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="STDNumerator_Num_zones_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="STDNumerator_Num_zones_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="STDNumerator_Num_zones_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="STDNumerator_Num_zones_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Num_zones_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="STDNumerator_Num_zones_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Num_zones_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Num_zones_XMLSave.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ZoneMask">
+<param name="Local" value="STDNumerator_Num_zones_ZoneMask.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Num_zones_COL">
+<param name="Local" value="STDNumerator_Num_zones_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="STDNumerator_Num_zones_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="STDNumerator_Num_zones_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="STDNumerator_Num_zones_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="STDNumerator_Num_zones_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="STDNumerator_Num_zones_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="STDNumerator_Num_zones_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="STDNumerator_Num_zones_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="STDNumerator_Num_zones_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="STDNumerator_Num_zones_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="STDNumerator_Num_zones_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="STDNumerator_Num_zones_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="STDNumerator_Num_zones_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="STDNumerator_Num_zones_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="STDNumerator_Num_zones_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="STDNumerator_Num_zones_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="STDNumerator_Num_zones_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="STDNumerator_Num_zones_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="STDNumerator_Num_zones_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="STDNumerator_Num_zones_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="STDNumerator_Num_zones_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="STDNumerator_Num_zones_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="STDNumerator_Num_zones_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="STDNumerator_Num_zones_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="STDNumerator_Num_zones_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="STDNumerator_Num_zones_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

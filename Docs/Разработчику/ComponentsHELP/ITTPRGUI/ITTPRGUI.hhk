@@ -1,0 +1,142 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="ITTPRGUI"><param name="Name" value="ITTPRGUI"><param name="Local" value="ITTPRGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctl_main"><param name="Name" value="ITTPRGUI.ctl_main"><param name="Local" value="ITTPRGUI_ctl_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckStatusMenu"><param name="Name" value="ITTPRGUI.ctl_main.CheckStatusMenu"><param name="Local" value="ITTPRGUI_ctl_main_CheckStatusMenu.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.CheckStatusMenu"><param name="Local" value="ITTPRGUI_ctladmi_main_CheckStatusMenu.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.CheckStatusMenu"><param name="Local" value="ITTPRGUI_ctlmain_main_CheckStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Host"><param name="Name" value="ITTPRGUI.ctl_main.Host"><param name="Local" value="ITTPRGUI_ctl_main_Host.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.Host"><param name="Local" value="ITTPRGUI_ctladmi_main_Host.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.Host"><param name="Local" value="ITTPRGUI_ctlmain_main_Host.htm"><param name="Name" value="ITTPRGUI.frm_main.Host"><param name="Local" value="ITTPRGUI_frm_main_Host.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.Host"><param name="Local" value="ITTPRGUI_frmadmi_main_Host.htm"><param name="Name" value="ITTPRGUI.frmmain_main.Host"><param name="Local" value="ITTPRGUI_frmmain_main_Host.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Init"><param name="Name" value="ITTPRGUI.ctl_main.Init"><param name="Local" value="ITTPRGUI_ctl_main_Init.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.Init"><param name="Local" value="ITTPRGUI_ctladmi_main_Init.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.Init"><param name="Local" value="ITTPRGUI_ctlmain_main_Init.htm"><param name="Name" value="ITTPRGUI.frm_main.Init"><param name="Local" value="ITTPRGUI_frm_main_Init.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.Init"><param name="Local" value="ITTPRGUI_frmadmi_main_Init.htm"><param name="Name" value="ITTPRGUI.frmmain_main.Init"><param name="Local" value="ITTPRGUI_frmmain_main_Init.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsChanged"><param name="Name" value="ITTPRGUI.ctl_main.IsChanged"><param name="Local" value="ITTPRGUI_ctl_main_IsChanged.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.IsChanged"><param name="Local" value="ITTPRGUI_ctladmi_main_IsChanged.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.IsChanged"><param name="Local" value="ITTPRGUI_ctlmain_main_IsChanged.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEF.IsChanged"><param name="Local" value="ITTPRGUI_ITTPR_DEF_IsChanged.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.IsChanged"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_IsChanged.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.IsChanged"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_IsChanged.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.IsChanged"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__IsChanged.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.IsChanged"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_IsChanged.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.IsChanged"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_IsChanged.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsOK"><param name="Name" value="ITTPRGUI.ctl_main.IsOK"><param name="Local" value="ITTPRGUI_ctl_main_IsOK.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.IsOK"><param name="Local" value="ITTPRGUI_ctladmi_main_IsOK.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.IsOK"><param name="Local" value="ITTPRGUI_ctlmain_main_IsOK.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEF.IsOK"><param name="Local" value="ITTPRGUI_ITTPR_DEF_IsOK.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.IsOK"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_IsOK.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.IsOK"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_IsOK.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.IsOK"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__IsOK.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.IsOK"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_IsOK.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.IsOK"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_IsOK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Name" value="ITTPRGUI.ctl_main.item"><param name="Local" value="ITTPRGUI_ctl_main_item.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.item"><param name="Local" value="ITTPRGUI_ctladmi_main_item.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.item"><param name="Local" value="ITTPRGUI_ctlmain_main_item.htm"><param name="Name" value="ITTPRGUI.frm_main.item"><param name="Local" value="ITTPRGUI_frm_main_item.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.item"><param name="Local" value="ITTPRGUI_frmadmi_main_item.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.item"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__item.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.item"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_item.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.item"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_item.htm"><param name="Name" value="ITTPRGUI.frmmain_main.item"><param name="Local" value="ITTPRGUI_frmmain_main_item.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEF.item"><param name="Local" value="ITTPRGUI_ITTPR_DEF_item.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.item"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_item.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.item"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_item.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.item"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__item.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.item"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_item.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.item"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_item.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ModalMode"><param name="Name" value="ITTPRGUI.ctl_main.ModalMode"><param name="Local" value="ITTPRGUI_ctl_main_ModalMode.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.ModalMode"><param name="Local" value="ITTPRGUI_ctladmi_main_ModalMode.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.ModalMode"><param name="Local" value="ITTPRGUI_ctlmain_main_ModalMode.htm"><param name="Name" value="ITTPRGUI.frm_main.ModalMode"><param name="Local" value="ITTPRGUI_frm_main_ModalMode.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.ModalMode"><param name="Local" value="ITTPRGUI_frmadmi_main_ModalMode.htm"><param name="Name" value="ITTPRGUI.frmmain_main.ModalMode"><param name="Local" value="ITTPRGUI_frmmain_main_ModalMode.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.ModalMode"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__ModalMode.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.ModalMode"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_ModalMode.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.ModalMode"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_ModalMode.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnSave"><param name="Name" value="ITTPRGUI.ctl_main.OnSave"><param name="Local" value="ITTPRGUI_ctl_main_OnSave.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.OnSave"><param name="Local" value="ITTPRGUI_ctladmi_main_OnSave.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.OnSave"><param name="Local" value="ITTPRGUI_ctlmain_main_OnSave.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.OnSave"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__OnSave.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.OnSave"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_OnSave.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.OnSave"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_OnSave.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ParentForm"><param name="Name" value="ITTPRGUI.ctl_main.ParentForm"><param name="Local" value="ITTPRGUI_ctl_main_ParentForm.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.ParentForm"><param name="Local" value="ITTPRGUI_ctladmi_main_ParentForm.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.ParentForm"><param name="Local" value="ITTPRGUI_ctlmain_main_ParentForm.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.ParentForm"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__ParentForm.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.ParentForm"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_ParentForm.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.ParentForm"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_ParentForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedHeight"><param name="Name" value="ITTPRGUI.ctl_main.PrefferedHeight"><param name="Local" value="ITTPRGUI_ctl_main_PrefferedHeight.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.PrefferedHeight"><param name="Local" value="ITTPRGUI_ctladmi_main_PrefferedHeight.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.PrefferedHeight"><param name="Local" value="ITTPRGUI_ctlmain_main_PrefferedHeight.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedWidth"><param name="Name" value="ITTPRGUI.ctl_main.PrefferedWidth"><param name="Local" value="ITTPRGUI_ctl_main_PrefferedWidth.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.PrefferedWidth"><param name="Local" value="ITTPRGUI_ctladmi_main_PrefferedWidth.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.PrefferedWidth"><param name="Local" value="ITTPRGUI_ctlmain_main_PrefferedWidth.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SetupStatusMenu"><param name="Name" value="ITTPRGUI.ctl_main.SetupStatusMenu"><param name="Local" value="ITTPRGUI_ctl_main_SetupStatusMenu.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.SetupStatusMenu"><param name="Local" value="ITTPRGUI_ctladmi_main_SetupStatusMenu.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.SetupStatusMenu"><param name="Local" value="ITTPRGUI_ctlmain_main_SetupStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="StatusMenuCount"><param name="Name" value="ITTPRGUI.ctl_main.StatusMenuCount"><param name="Local" value="ITTPRGUI_ctl_main_StatusMenuCount.htm"><param name="Name" value="ITTPRGUI.ctladmi_main.StatusMenuCount"><param name="Local" value="ITTPRGUI_ctladmi_main_StatusMenuCount.htm"><param name="Name" value="ITTPRGUI.ctlmain_main.StatusMenuCount"><param name="Local" value="ITTPRGUI_ctlmain_main_StatusMenuCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctladmi_main"><param name="Name" value="ITTPRGUI.ctladmi_main"><param name="Local" value="ITTPRGUI_ctladmi_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctlmain_main"><param name="Name" value="ITTPRGUI.ctlmain_main"><param name="Local" value="ITTPRGUI_ctlmain_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frm_main"><param name="Name" value="ITTPRGUI.frm_main"><param name="Local" value="ITTPRGUI_frm_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BeforeChangeStatus"><param name="Name" value="ITTPRGUI.frm_main.BeforeChangeStatus"><param name="Local" value="ITTPRGUI_frm_main_BeforeChangeStatus.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.BeforeChangeStatus"><param name="Local" value="ITTPRGUI_frmadmi_main_BeforeChangeStatus.htm"><param name="Name" value="ITTPRGUI.frmmain_main.BeforeChangeStatus"><param name="Local" value="ITTPRGUI_frmmain_main_BeforeChangeStatus.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsNew"><param name="Name" value="ITTPRGUI.frm_main.CheckIsNew"><param name="Local" value="ITTPRGUI_frm_main_CheckIsNew.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.CheckIsNew"><param name="Local" value="ITTPRGUI_frmadmi_main_CheckIsNew.htm"><param name="Name" value="ITTPRGUI.frmmain_main.CheckIsNew"><param name="Local" value="ITTPRGUI_frmmain_main_CheckIsNew.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsOk"><param name="Name" value="ITTPRGUI.frm_main.CheckIsOk"><param name="Local" value="ITTPRGUI_frm_main_CheckIsOk.htm"><param name="Name" value="ITTPRGUI.frmadmi_main.CheckIsOk"><param name="Local" value="ITTPRGUI_frmadmi_main_CheckIsOk.htm"><param name="Name" value="ITTPRGUI.frmmain_main.CheckIsOk"><param name="Local" value="ITTPRGUI_frmmain_main_CheckIsOk.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmadmi_main"><param name="Name" value="ITTPRGUI.frmadmi_main"><param name="Local" value="ITTPRGUI_frmadmi_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTPR_DEF_"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdCancel_Click"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.cmdCancel_Click"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__cmdCancel_Click.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.cmdCancel_Click"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_cmdCancel_Click.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.cmdCancel_Click"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_cmdCancel_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdOK_Click"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.cmdOK_Click"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__cmdOK_Click.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.cmdOK_Click"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_cmdOK_Click.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.cmdOK_Click"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_cmdOK_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Activate"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.Form_Activate"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__Form_Activate.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.Form_Activate"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_Form_Activate.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.Form_Activate"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_Form_Activate.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="form_DblCLick"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.form_DblCLick"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__form_DblCLick.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.form_DblCLick"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_form_DblCLick.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.form_DblCLick"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_form_DblCLick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Load"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.Form_Load"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__Form_Load.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.Form_Load"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_Form_Load.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.Form_Load"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_Form_Load.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Resize"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.Form_Resize"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__Form_Resize.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.Form_Resize"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_Form_Resize.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.Form_Resize"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_Form_Resize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Unload"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.Form_Unload"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__Form_Unload.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.Form_Unload"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_Form_Unload.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.Form_Unload"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_Form_Unload.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="NotFirstTime"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.NotFirstTime"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__NotFirstTime.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.NotFirstTime"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_NotFirstTime.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.NotFirstTime"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_NotFirstTime.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OK"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.OK"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__OK.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.OK"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_OK.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.OK"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_OK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnInit"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.OnInit"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__OnInit.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.OnInit"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_OnInit.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.OnInit"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_OnInit.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.OnInit"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__OnInit.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.OnInit"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_OnInit.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.OnInit"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_OnInit.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="panel_Changed"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_.panel_Changed"><param name="Local" value="ITTPRGUI_frmITTPR_DEF__panel_Changed.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi.panel_Changed"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi_panel_Changed.htm"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main.panel_Changed"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main_panel_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTPR_DEF_admi"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_admi"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_admi.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTPR_DEF_main"><param name="Name" value="ITTPRGUI.frmITTPR_DEF_main"><param name="Local" value="ITTPRGUI_frmITTPR_DEF_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmmain_main"><param name="Name" value="ITTPRGUI.frmmain_main"><param name="Local" value="ITTPRGUI_frmmain_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUI"><param name="Name" value="ITTPRGUI.GUI"><param name="Local" value="ITTPRGUI_GUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CloseClass"><param name="Name" value="ITTPRGUI.GUI.CloseClass"><param name="Local" value="ITTPRGUI_GUI_CloseClass.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.CloseClass"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__CloseClass.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.CloseClass"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_CloseClass.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.CloseClass"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_CloseClass.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="EraseForm"><param name="Name" value="ITTPRGUI.GUI.EraseForm"><param name="Local" value="ITTPRGUI_GUI_EraseForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormCount"><param name="Name" value="ITTPRGUI.GUI.FormCount"><param name="Local" value="ITTPRGUI_GUI_FormCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUIPath"><param name="Name" value="ITTPRGUI.GUI.GUIPath"><param name="Local" value="ITTPRGUI_GUI_GUIPath.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsModal"><param name="Name" value="ITTPRGUI.GUI.IsModal"><param name="Local" value="ITTPRGUI_GUI_IsModal.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Name" value="ITTPRGUI.GUI.Show"><param name="Local" value="ITTPRGUI_GUI_Show.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ShowAddForm"><param name="Name" value="ITTPRGUI.GUI.ShowAddForm"><param name="Local" value="ITTPRGUI_GUI_ShowAddForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTPR_DEF"><param name="Name" value="ITTPRGUI.ITTPR_DEF"><param name="Local" value="ITTPRGUI_ITTPR_DEF.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Changed"><param name="Name" value="ITTPRGUI.ITTPR_DEF.Changed"><param name="Local" value="ITTPRGUI_ITTPR_DEF_Changed.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.Changed"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_Changed.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.Changed"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Customize"><param name="Name" value="ITTPRGUI.ITTPR_DEF.Customize"><param name="Local" value="ITTPRGUI_ITTPR_DEF_Customize.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.Customize"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_Customize.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.Customize"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_Customize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Enabled"><param name="Name" value="ITTPRGUI.ITTPR_DEF.Enabled"><param name="Local" value="ITTPRGUI_ITTPR_DEF_Enabled.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.Enabled"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_Enabled.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.Enabled"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_Enabled.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="InitPanel"><param name="Name" value="ITTPRGUI.ITTPR_DEF.InitPanel"><param name="Local" value="ITTPRGUI_ITTPR_DEF_InitPanel.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.InitPanel"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_InitPanel.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.InitPanel"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_InitPanel.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalSize"><param name="Name" value="ITTPRGUI.ITTPR_DEF.OptimalSize"><param name="Local" value="ITTPRGUI_ITTPR_DEF_OptimalSize.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.OptimalSize"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_OptimalSize.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.OptimalSize"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_OptimalSize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalY"><param name="Name" value="ITTPRGUI.ITTPR_DEF.OptimalY"><param name="Local" value="ITTPRGUI_ITTPR_DEF_OptimalY.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.OptimalY"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_OptimalY.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.OptimalY"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_OptimalY.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PanelCustomisationString"><param name="Name" value="ITTPRGUI.ITTPR_DEF.PanelCustomisationString"><param name="Local" value="ITTPRGUI_ITTPR_DEF_PanelCustomisationString.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.PanelCustomisationString"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_PanelCustomisationString.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.PanelCustomisationString"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_PanelCustomisationString.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Name" value="ITTPRGUI.ITTPR_DEF.Save"><param name="Local" value="ITTPRGUI_ITTPR_DEF_Save.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi.Save"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi_Save.htm"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain.Save"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain_Save.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTPR_DEFadmi"><param name="Name" value="ITTPRGUI.ITTPR_DEFadmi"><param name="Local" value="ITTPRGUI_ITTPR_DEFadmi.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTPR_DEFmain"><param name="Name" value="ITTPRGUI.ITTPR_DEFmain"><param name="Local" value="ITTPRGUI_ITTPR_DEFmain.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Util"><param name="Name" value="ITTPRGUI.Util"><param name="Local" value="ITTPRGUI_Util.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormByName"><param name="Name" value="ITTPRGUI.Util.FormByName"><param name="Local" value="ITTPRGUI_Util_FormByName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromBuffer"><param name="Name" value="ITTPRGUI.Util.GetFromBuffer"><param name="Local" value="ITTPRGUI_Util_GetFromBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SaveToBuffer"><param name="Name" value="ITTPRGUI.Util.SaveToBuffer"><param name="Local" value="ITTPRGUI_Util_SaveToBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTPR_DEF_"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnClick"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_.OnClick"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF__OnClick.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi.OnClick"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi_OnClick.htm"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main.OnClick"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main_OnClick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTPR_DEF_admi"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_admi"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_admi.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTPR_DEF_main"><param name="Name" value="ITTPRGUI.vpnITTPR_DEF_main"><param name="Local" value="ITTPRGUI_vpnITTPR_DEF_main.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>

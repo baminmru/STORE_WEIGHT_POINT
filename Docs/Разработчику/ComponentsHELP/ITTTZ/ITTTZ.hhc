@@ -1,0 +1,822 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ">
+<param name="Local" value="ITTTZ.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTTZ_Application.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToCash">
+<param name="Local" value="ITTTZ_Application_AddToCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTTZ_Application_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AutoLoadPart">
+<param name="Local" value="ITTTZ_Application_AutoLoadPart.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTTZ_Application_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTTZ_Application_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTTZ_Application_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTTZ_Application_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTTZ_Application_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTTZ_Application_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="ITTTZ_Application_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTTZ_Application_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTTZ_Application_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FillTree">
+<param name="Local" value="ITTTZ_Application_FillTree.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTTZ_Application_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindRowObject">
+<param name="Local" value="ITTTZ_Application_FindRowObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTTZ_Application_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTTZ_Application_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemCollection">
+<param name="Local" value="ITTTZ_Application_ItemCollection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ_DEF">
+<param name="Local" value="ITTTZ_Application_ITTTZ_DEF.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ_LINES">
+<param name="Local" value="ITTTZ_Application_ITTTZ_LINES.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadAll">
+<param name="Local" value="ITTTZ_Application_LoadAll.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTTZ_Application_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logger">
+<param name="Local" value="ITTTZ_Application_Logger.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manager">
+<param name="Local" value="ITTTZ_Application_Manager.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZSession">
+<param name="Local" value="ITTTZ_Application_MTZSession.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Name">
+<param name="Local" value="ITTTZ_Application_Name.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTTZ_Application_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTTZ_Application_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RemoveFromCash">
+<param name="Local" value="ITTTZ_Application_RemoveFromCash.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTTZ_Application_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTTZ_Application_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTTZ_Application_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusID">
+<param name="Local" value="ITTTZ_Application_StatusID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusName">
+<param name="Local" value="ITTTZ_Application_StatusName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TypeName">
+<param name="Local" value="ITTTZ_Application_TypeName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTTZ_Application_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WorkOffline">
+<param name="Local" value="ITTTZ_Application_WorkOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTTZ_Application_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTTZ_Application_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ_DEF">
+<param name="Local" value="ITTTZ_ITTTZ_DEF.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Code">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Code.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Direction">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Direction.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DocDate">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_DocDate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SupplierCode">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_SupplierCode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheClient">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_TheClient.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheNumber">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_TheNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ_DEF_COL">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTTZ_ITTTZ_DEF_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ_LINES">
+<param name="Local" value="ITTTZ_ITTTZ_LINES.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessTime">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_AccessTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BatchUpdate">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_BatchUpdate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Brief">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Brief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Change">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Change.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changed">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Changed.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeTime">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_ChangeTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CleanFields">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_CleanFields.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Deleted">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Deleted.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Direction">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Direction.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EDIZM">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_EDIZM.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expand">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Expand.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FileLink">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_FileLink.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ID">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_ID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadFromDatabase">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_LoadFromDatabase.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pack">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Pack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Partia">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Partia.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quantity">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Quantity.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RetriveTime">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_RetriveTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowRetrived">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_RowRetrived.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Save">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Save.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SecureStyleID">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_SecureStyleID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="sequence">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_sequence.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SSCC">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_SSCC.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SupplierCode">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_SupplierCode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheArticul">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_TheArticul.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheNumber">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_TheNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnPack">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_UnPack.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_XMLSave.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTTZ_LINES_COL">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChange">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_CanChange.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeOffline">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_CanChangeOffline.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanChangeONLine">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_CanChangeONLine.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compact">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Compact.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delete">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Delete.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Filter">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Filter.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FindObject">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_FindObject.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQ">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetEQ.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetEQPos">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetEQPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGE">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetGE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGEPos">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetGEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGT">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetGT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetGTPos">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetGTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLE">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLEPos">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetLEPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLT">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetLT.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLTPos">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_GetLTPos.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LoadRow">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_LoadRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PrepareGrid">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_PrepareGrid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Refresh">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Refresh.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Remove.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Sort.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_UnLockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Update">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_Update.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLLoad">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_XMLLoad.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XMLSave">
+<param name="Local" value="ITTTZ_ITTTZ_LINES_COL_XMLSave.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

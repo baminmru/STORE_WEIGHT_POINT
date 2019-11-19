@@ -1,0 +1,200 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITT2OPTBST">
+<param name="Local" value="ITT2OPTBST.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BEFORESTATUS">
+<param name="Local" value="ITT2OPTBST_BEFORESTATUS.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Check">
+<param name="Local" value="ITT2OPTBST_BEFORESTATUS_Check.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Box">
+<param name="Local" value="ITT2OPTBST_Box.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Code">
+<param name="Local" value="ITT2OPTBST_Box_Code.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetCost">
+<param name="Local" value="ITT2OPTBST_Box_GetCost.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFrom">
+<param name="Local" value="ITT2OPTBST_Box_GetFrom.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HavePut">
+<param name="Local" value="ITT2OPTBST_Box_HavePut.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PutCost">
+<param name="Local" value="ITT2OPTBST_Box_PutCost.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PutTo">
+<param name="Local" value="ITT2OPTBST_Box_PutTo.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="qcur">
+<param name="Local" value="ITT2OPTBST_Box_qcur.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="qmax">
+<param name="Local" value="ITT2OPTBST_Box_qmax.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="T">
+<param name="Local" value="ITT2OPTBST_Box_T.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="X">
+<param name="Local" value="ITT2OPTBST_Box_X.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Y">
+<param name="Local" value="ITT2OPTBST_Box_Y.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Z">
+<param name="Local" value="ITT2OPTBST_Box_Z.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Boxes">
+<param name="Local" value="ITT2OPTBST_Boxes.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITT2OPTBST_Boxes_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Base">
+<param name="Local" value="ITT2OPTBST_Boxes_Base.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITT2OPTBST_Boxes_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2OPTBST_Boxes_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITT2OPTBST_Boxes_Remove.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BoxShift">
+<param name="Local" value="ITT2OPTBST_BoxShift.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExcludeShift">
+<param name="Local" value="ITT2OPTBST_BoxShift_ExcludeShift.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FromCode">
+<param name="Local" value="ITT2OPTBST_BoxShift_FromCode.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ToCode">
+<param name="Local" value="ITT2OPTBST_BoxShift_ToCode.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BoxShifts">
+<param name="Local" value="ITT2OPTBST_BoxShifts.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="ITT2OPTBST_BoxShifts_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Base">
+<param name="Local" value="ITT2OPTBST_BoxShifts_Base.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="ITT2OPTBST_BoxShifts_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="ITT2OPTBST_BoxShifts_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="ITT2OPTBST_BoxShifts_Remove.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Form1">
+<param name="Local" value="ITT2OPTBST_Form1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manager">
+<param name="Local" value="ITT2OPTBST_Form1_Manager.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OK">
+<param name="Local" value="ITT2OPTBST_Form1_OK.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmProgress">
+<param name="Local" value="ITT2OPTBST_frmProgress.htm">
+</OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Optimizator">
+<param name="Local" value="ITT2OPTBST_Optimizator.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimizeAll">
+<param name="Local" value="ITT2OPTBST_Optimizator_OptimizeAll.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimizeKamera">
+<param name="Local" value="ITT2OPTBST_Optimizator_OptimizeKamera.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OptimizeRadius">
+<param name="Local" value="ITT2OPTBST_Optimizator_OptimizeRadius.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="shifts">
+<param name="Local" value="ITT2OPTBST_Optimizator_shifts.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="st">
+<param name="Local" value="ITT2OPTBST_Optimizator_st.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

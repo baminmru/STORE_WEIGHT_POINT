@@ -1,0 +1,1 @@
+exporter.exe APP:itt2007b USR:supervisor PWD:bami ACT:RPT2

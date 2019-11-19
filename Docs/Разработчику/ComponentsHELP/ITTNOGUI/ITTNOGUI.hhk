@@ -1,0 +1,134 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="ITTNOGUI"><param name="Name" value="ITTNOGUI"><param name="Local" value="ITTNOGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctl_main"><param name="Name" value="ITTNOGUI.ctl_main"><param name="Local" value="ITTNOGUI_ctl_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckStatusMenu"><param name="Name" value="ITTNOGUI.ctl_main.CheckStatusMenu"><param name="Local" value="ITTNOGUI_ctl_main_CheckStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Host"><param name="Name" value="ITTNOGUI.ctl_main.Host"><param name="Local" value="ITTNOGUI_ctl_main_Host.htm"><param name="Name" value="ITTNOGUI.frm_main.Host"><param name="Local" value="ITTNOGUI_frm_main_Host.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Init"><param name="Name" value="ITTNOGUI.ctl_main.Init"><param name="Local" value="ITTNOGUI_ctl_main_Init.htm"><param name="Name" value="ITTNOGUI.frm_main.Init"><param name="Local" value="ITTNOGUI_frm_main_Init.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsChanged"><param name="Name" value="ITTNOGUI.ctl_main.IsChanged"><param name="Local" value="ITTNOGUI_ctl_main_IsChanged.htm"><param name="Name" value="ITTNOGUI.ITTNO_CMN.IsChanged"><param name="Local" value="ITTNOGUI_ITTNO_CMN_IsChanged.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.IsChanged"><param name="Local" value="ITTNOGUI_ITTNO_YC_IsChanged.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.IsChanged"><param name="Local" value="ITTNOGUI_ITTNO_ZC_IsChanged.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.IsChanged"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__IsChanged.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.IsChanged"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__IsChanged.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.IsChanged"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__IsChanged.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsOK"><param name="Name" value="ITTNOGUI.ctl_main.IsOK"><param name="Local" value="ITTNOGUI_ctl_main_IsOK.htm"><param name="Name" value="ITTNOGUI.ITTNO_CMN.IsOK"><param name="Local" value="ITTNOGUI_ITTNO_CMN_IsOK.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.IsOK"><param name="Local" value="ITTNOGUI_ITTNO_YC_IsOK.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.IsOK"><param name="Local" value="ITTNOGUI_ITTNO_ZC_IsOK.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.IsOK"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__IsOK.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.IsOK"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__IsOK.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.IsOK"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__IsOK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Name" value="ITTNOGUI.ctl_main.item"><param name="Local" value="ITTNOGUI_ctl_main_item.htm"><param name="Name" value="ITTNOGUI.frm_main.item"><param name="Local" value="ITTNOGUI_frm_main_item.htm"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.item"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__item.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.item"><param name="Local" value="ITTNOGUI_frmITTNO_YC__item.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.item"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__item.htm"><param name="Name" value="ITTNOGUI.ITTNO_CMN.item"><param name="Local" value="ITTNOGUI_ITTNO_CMN_item.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.item"><param name="Local" value="ITTNOGUI_ITTNO_YC_item.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.item"><param name="Local" value="ITTNOGUI_ITTNO_ZC_item.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.item"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__item.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.item"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__item.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.item"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__item.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ModalMode"><param name="Name" value="ITTNOGUI.ctl_main.ModalMode"><param name="Local" value="ITTNOGUI_ctl_main_ModalMode.htm"><param name="Name" value="ITTNOGUI.frm_main.ModalMode"><param name="Local" value="ITTNOGUI_frm_main_ModalMode.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.ModalMode"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__ModalMode.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.ModalMode"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__ModalMode.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.ModalMode"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__ModalMode.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnSave"><param name="Name" value="ITTNOGUI.ctl_main.OnSave"><param name="Local" value="ITTNOGUI_ctl_main_OnSave.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.OnSave"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__OnSave.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.OnSave"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__OnSave.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.OnSave"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__OnSave.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ParentForm"><param name="Name" value="ITTNOGUI.ctl_main.ParentForm"><param name="Local" value="ITTNOGUI_ctl_main_ParentForm.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.ParentForm"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__ParentForm.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.ParentForm"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__ParentForm.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.ParentForm"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__ParentForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedHeight"><param name="Name" value="ITTNOGUI.ctl_main.PrefferedHeight"><param name="Local" value="ITTNOGUI_ctl_main_PrefferedHeight.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedWidth"><param name="Name" value="ITTNOGUI.ctl_main.PrefferedWidth"><param name="Local" value="ITTNOGUI_ctl_main_PrefferedWidth.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SetupStatusMenu"><param name="Name" value="ITTNOGUI.ctl_main.SetupStatusMenu"><param name="Local" value="ITTNOGUI_ctl_main_SetupStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="StatusMenuCount"><param name="Name" value="ITTNOGUI.ctl_main.StatusMenuCount"><param name="Local" value="ITTNOGUI_ctl_main_StatusMenuCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frm_main"><param name="Name" value="ITTNOGUI.frm_main"><param name="Local" value="ITTNOGUI_frm_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BeforeChangeStatus"><param name="Name" value="ITTNOGUI.frm_main.BeforeChangeStatus"><param name="Local" value="ITTNOGUI_frm_main_BeforeChangeStatus.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsNew"><param name="Name" value="ITTNOGUI.frm_main.CheckIsNew"><param name="Local" value="ITTNOGUI_frm_main_CheckIsNew.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsOk"><param name="Name" value="ITTNOGUI.frm_main.CheckIsOk"><param name="Local" value="ITTNOGUI_frm_main_CheckIsOk.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTNO_CMN_"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_"><param name="Local" value="ITTNOGUI_frmITTNO_CMN_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdCancel_Click"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.cmdCancel_Click"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__cmdCancel_Click.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.cmdCancel_Click"><param name="Local" value="ITTNOGUI_frmITTNO_YC__cmdCancel_Click.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.cmdCancel_Click"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__cmdCancel_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdOK_Click"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.cmdOK_Click"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__cmdOK_Click.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.cmdOK_Click"><param name="Local" value="ITTNOGUI_frmITTNO_YC__cmdOK_Click.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.cmdOK_Click"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__cmdOK_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Activate"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.Form_Activate"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__Form_Activate.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.Form_Activate"><param name="Local" value="ITTNOGUI_frmITTNO_YC__Form_Activate.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.Form_Activate"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__Form_Activate.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="form_DblCLick"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.form_DblCLick"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__form_DblCLick.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.form_DblCLick"><param name="Local" value="ITTNOGUI_frmITTNO_YC__form_DblCLick.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.form_DblCLick"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__form_DblCLick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Load"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.Form_Load"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__Form_Load.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.Form_Load"><param name="Local" value="ITTNOGUI_frmITTNO_YC__Form_Load.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.Form_Load"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__Form_Load.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Resize"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.Form_Resize"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__Form_Resize.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.Form_Resize"><param name="Local" value="ITTNOGUI_frmITTNO_YC__Form_Resize.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.Form_Resize"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__Form_Resize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Unload"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.Form_Unload"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__Form_Unload.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.Form_Unload"><param name="Local" value="ITTNOGUI_frmITTNO_YC__Form_Unload.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.Form_Unload"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__Form_Unload.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="NotFirstTime"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.NotFirstTime"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__NotFirstTime.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.NotFirstTime"><param name="Local" value="ITTNOGUI_frmITTNO_YC__NotFirstTime.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.NotFirstTime"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__NotFirstTime.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OK"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.OK"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__OK.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.OK"><param name="Local" value="ITTNOGUI_frmITTNO_YC__OK.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.OK"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__OK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnInit"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.OnInit"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__OnInit.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.OnInit"><param name="Local" value="ITTNOGUI_frmITTNO_YC__OnInit.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.OnInit"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__OnInit.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.OnInit"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__OnInit.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.OnInit"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__OnInit.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.OnInit"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__OnInit.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="panel_Changed"><param name="Name" value="ITTNOGUI.frmITTNO_CMN_.panel_Changed"><param name="Local" value="ITTNOGUI_frmITTNO_CMN__panel_Changed.htm"><param name="Name" value="ITTNOGUI.frmITTNO_YC_.panel_Changed"><param name="Local" value="ITTNOGUI_frmITTNO_YC__panel_Changed.htm"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_.panel_Changed"><param name="Local" value="ITTNOGUI_frmITTNO_ZC__panel_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTNO_YC_"><param name="Name" value="ITTNOGUI.frmITTNO_YC_"><param name="Local" value="ITTNOGUI_frmITTNO_YC_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmITTNO_ZC_"><param name="Name" value="ITTNOGUI.frmITTNO_ZC_"><param name="Local" value="ITTNOGUI_frmITTNO_ZC_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUI"><param name="Name" value="ITTNOGUI.GUI"><param name="Local" value="ITTNOGUI_GUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CloseClass"><param name="Name" value="ITTNOGUI.GUI.CloseClass"><param name="Local" value="ITTNOGUI_GUI_CloseClass.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.CloseClass"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__CloseClass.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.CloseClass"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__CloseClass.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.CloseClass"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__CloseClass.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="EraseForm"><param name="Name" value="ITTNOGUI.GUI.EraseForm"><param name="Local" value="ITTNOGUI_GUI_EraseForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormCount"><param name="Name" value="ITTNOGUI.GUI.FormCount"><param name="Local" value="ITTNOGUI_GUI_FormCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUIPath"><param name="Name" value="ITTNOGUI.GUI.GUIPath"><param name="Local" value="ITTNOGUI_GUI_GUIPath.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsModal"><param name="Name" value="ITTNOGUI.GUI.IsModal"><param name="Local" value="ITTNOGUI_GUI_IsModal.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Name" value="ITTNOGUI.GUI.Show"><param name="Local" value="ITTNOGUI_GUI_Show.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ShowAddForm"><param name="Name" value="ITTNOGUI.GUI.ShowAddForm"><param name="Local" value="ITTNOGUI_GUI_ShowAddForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTNO_CMN"><param name="Name" value="ITTNOGUI.ITTNO_CMN"><param name="Local" value="ITTNOGUI_ITTNO_CMN.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Changed"><param name="Name" value="ITTNOGUI.ITTNO_CMN.Changed"><param name="Local" value="ITTNOGUI_ITTNO_CMN_Changed.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.Changed"><param name="Local" value="ITTNOGUI_ITTNO_YC_Changed.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.Changed"><param name="Local" value="ITTNOGUI_ITTNO_ZC_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Customize"><param name="Name" value="ITTNOGUI.ITTNO_CMN.Customize"><param name="Local" value="ITTNOGUI_ITTNO_CMN_Customize.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.Customize"><param name="Local" value="ITTNOGUI_ITTNO_YC_Customize.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.Customize"><param name="Local" value="ITTNOGUI_ITTNO_ZC_Customize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Enabled"><param name="Name" value="ITTNOGUI.ITTNO_CMN.Enabled"><param name="Local" value="ITTNOGUI_ITTNO_CMN_Enabled.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.Enabled"><param name="Local" value="ITTNOGUI_ITTNO_YC_Enabled.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.Enabled"><param name="Local" value="ITTNOGUI_ITTNO_ZC_Enabled.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="InitPanel"><param name="Name" value="ITTNOGUI.ITTNO_CMN.InitPanel"><param name="Local" value="ITTNOGUI_ITTNO_CMN_InitPanel.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.InitPanel"><param name="Local" value="ITTNOGUI_ITTNO_YC_InitPanel.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.InitPanel"><param name="Local" value="ITTNOGUI_ITTNO_ZC_InitPanel.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalSize"><param name="Name" value="ITTNOGUI.ITTNO_CMN.OptimalSize"><param name="Local" value="ITTNOGUI_ITTNO_CMN_OptimalSize.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.OptimalSize"><param name="Local" value="ITTNOGUI_ITTNO_YC_OptimalSize.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.OptimalSize"><param name="Local" value="ITTNOGUI_ITTNO_ZC_OptimalSize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalY"><param name="Name" value="ITTNOGUI.ITTNO_CMN.OptimalY"><param name="Local" value="ITTNOGUI_ITTNO_CMN_OptimalY.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.OptimalY"><param name="Local" value="ITTNOGUI_ITTNO_YC_OptimalY.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.OptimalY"><param name="Local" value="ITTNOGUI_ITTNO_ZC_OptimalY.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PanelCustomisationString"><param name="Name" value="ITTNOGUI.ITTNO_CMN.PanelCustomisationString"><param name="Local" value="ITTNOGUI_ITTNO_CMN_PanelCustomisationString.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.PanelCustomisationString"><param name="Local" value="ITTNOGUI_ITTNO_YC_PanelCustomisationString.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.PanelCustomisationString"><param name="Local" value="ITTNOGUI_ITTNO_ZC_PanelCustomisationString.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Name" value="ITTNOGUI.ITTNO_CMN.Save"><param name="Local" value="ITTNOGUI_ITTNO_CMN_Save.htm"><param name="Name" value="ITTNOGUI.ITTNO_YC.Save"><param name="Local" value="ITTNOGUI_ITTNO_YC_Save.htm"><param name="Name" value="ITTNOGUI.ITTNO_ZC.Save"><param name="Local" value="ITTNOGUI_ITTNO_ZC_Save.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTNO_YC"><param name="Name" value="ITTNOGUI.ITTNO_YC"><param name="Local" value="ITTNOGUI_ITTNO_YC.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ITTNO_ZC"><param name="Name" value="ITTNOGUI.ITTNO_ZC"><param name="Local" value="ITTNOGUI_ITTNO_ZC.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Util"><param name="Name" value="ITTNOGUI.Util"><param name="Local" value="ITTNOGUI_Util.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormByName"><param name="Name" value="ITTNOGUI.Util.FormByName"><param name="Local" value="ITTNOGUI_Util_FormByName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromBuffer"><param name="Name" value="ITTNOGUI.Util.GetFromBuffer"><param name="Local" value="ITTNOGUI_Util_GetFromBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SaveToBuffer"><param name="Name" value="ITTNOGUI.Util.SaveToBuffer"><param name="Local" value="ITTNOGUI_Util_SaveToBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTNO_CMN_"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnClick"><param name="Name" value="ITTNOGUI.vpnITTNO_CMN_.OnClick"><param name="Local" value="ITTNOGUI_vpnITTNO_CMN__OnClick.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_.OnClick"><param name="Local" value="ITTNOGUI_vpnITTNO_YC__OnClick.htm"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_.OnClick"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC__OnClick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTNO_YC_"><param name="Name" value="ITTNOGUI.vpnITTNO_YC_"><param name="Local" value="ITTNOGUI_vpnITTNO_YC_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnITTNO_ZC_"><param name="Name" value="ITTNOGUI.vpnITTNO_ZC_"><param name="Local" value="ITTNOGUI_vpnITTNO_ZC_.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="ITTOPTBST"><param name="Name" value="ITTOPTBST"><param name="Local" value="ITTOPTBST.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BEFORESTATUS"><param name="Name" value="ITTOPTBST.BEFORESTATUS"><param name="Local" value="ITTOPTBST_BEFORESTATUS.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Check"><param name="Name" value="ITTOPTBST.BEFORESTATUS.Check"><param name="Local" value="ITTOPTBST_BEFORESTATUS_Check.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="MyRound"><param name="Name" value="ITTOPTBST.BEFORESTATUS.MyRound"><param name="Local" value="ITTOPTBST_BEFORESTATUS_MyRound.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="MyRound2"><param name="Name" value="ITTOPTBST.BEFORESTATUS.MyRound2"><param name="Local" value="ITTOPTBST_BEFORESTATUS_MyRound2.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>MTZSession.Session.GetRows</TITLE>
+</HEAD>
+<BODY>
+<B><A HREF="MTZSession_Session.htm">Интерфейс Session</A> </B><B><A HREF="MTZSession.htm">Компонент MTZSession</A> </B><HR>
+<H1 > Session.GetRows</H1>
+
+<P>
+<H2 > <I>Public Function GetRows(ByVal Table As String, Optional ByVal ParentID As String = "", Optional ByVal ParentRowID = "", Optional Filter As String = "") As ADODB.RecordSet</I></H2>
+<P><BR>
+ Получить строки раздела<BR>
+ <P><H3>Параметры (Parameters)</H3><BR>
+ [IN]   Table , тип параметра: String - раздел,<BR>
+ [IN]   ParentID , тип параметра: String = "" - родительская строка,<BR>
+ [IN]   ParentRowID = "",, тип параметра: Variant - родитель в дереве<BR>
+ [IN]   Optional Filter , тип параметра: String = ""  - дополнительный фильтр<BR>
+ <P><H3>Возвращает (Returns)</H3><BR>
+   объект класса ADODB.RecordSet<BR>
+   ,или Nothing<BR>
+ <P><H3>Смотри также (See Also)</H3><UL><LI><A HREF="MTZSession_Session_Application.htm">Application</A> <BR>
+<LI><A HREF="MTZSession_Session_CheckConnection.htm">CheckConnection</A> <BR>
+<LI><A HREF="MTZSession_Session_CheckRight.htm">CheckRight</A> <BR>
+<LI><A HREF="MTZSession_Session_CloseClass.htm">CloseClass</A> <BR>
+<LI><A HREF="MTZSession_Session_Connected.htm">Connected</A> <BR>
+<LI><A HREF="MTZSession_Session_DeleteInstance.htm">DeleteInstance</A> <BR>
+<LI><A HREF="MTZSession_Session_DeleteRow.htm">DeleteRow</A> <BR>
+<LI><A HREF="MTZSession_Session_Exec.htm">Exec</A> <BR>
+<LI><A HREF="MTZSession_Session_GetBrief.htm">GetBrief</A> <BR>
+<LI><A HREF="MTZSession_Session_GetIDs.htm">GetIDs</A> <BR>
+<LI><A HREF="MTZSession_Session_GetRow.htm">GetRow</A> <BR>
+<LI><A HREF="MTZSession_Session_GetSessionUserID.htm">GetSessionUserID</A> <BR>
+<LI><A HREF="MTZSession_Session_HasParent.htm">HasParent</A> <BR>
+<LI><A HREF="MTZSession_Session_IntegratedLogin.htm">IntegratedLogin</A> <BR>
+<LI><A HREF="MTZSession_Session_IsDescendant.htm">IsDescendant</A> <BR>
+<LI><A HREF="MTZSession_Session_IsRowExists.htm">IsRowExists</A> <BR>
+<LI><A HREF="MTZSession_Session_Logger.htm">Logger</A> <BR>
+<LI><A HREF="MTZSession_Session_Login.htm">Login</A> <BR>
+<LI><A HREF="MTZSession_Session_Logout.htm">Logout</A> <BR>
+<LI><A HREF="MTZSession_Session_NewInstance.htm">NewInstance</A> <BR>
+<LI><A HREF="MTZSession_Session_Parent.htm">Parent</A> <BR>
+<LI><A HREF="MTZSession_Session_SaveRow.htm">SaveRow</A> <BR>
+<LI><A HREF="MTZSession_Session_sessionid.htm">sessionid</A> <BR>
+<LI><A HREF="MTZSession_Session_SetDefaultSecurityStyle.htm">SetDefaultSecurityStyle</A> <BR>
+<LI><A HREF="MTZSession_Session_SetOwner.htm">SetOwner</A> <BR>
+<LI><A HREF="MTZSession_Session_Site.htm">Site</A> <BR>
+<LI><A HREF="MTZSession_Session_SymbolAt.htm">SymbolAt</A> <BR>
+<LI><A HREF="MTZSession_Session_TableToType.htm">TableToType</A> <BR>
+<LI><A HREF="MTZSession_Session_TheFinder.htm">TheFinder</A> <BR>
+</UL><BR>
+<P><H3>Пример (Example)</H3><BR>
+  dim variable as ADODB.RecordSet<BR>
+  Set variable = me.GetRows({параметры})<BR>
+
+
+<HR>
+<B><A HREF="MTZSession_Session.htm">Интерфейс Session</A> </B><B><A HREF="MTZSession.htm">Компонент MTZSession</A> </B>
+</BODY>
+</HTML>

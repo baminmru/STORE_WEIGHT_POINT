@@ -1,0 +1,38 @@
+[Options]
+Compatibility = 1.1 Or later
+Compiled file = ITTD_LOGIC.chm
+Contents file = ITTD_LOGIC.hhc
+Default Window = helpwindow
+Default topic = ITTD_LOGIC.htm
+Display compile progress=No
+index file = ITTD_LOGIC.hhk
+Language=0x419 Русский
+Full-text search=Yes
+Title=
+
+[Windows]
+helpwindow=,"ITTD_LOGIC.hhc","ITTD_LOGIC.hhk","ITTD_LOGIC.htm",,,,,,0x23521,,0x304e,[0,0,600,400],,,,,,,0
+
+[MAP]
+#include ITTD_LOGIC.h
+
+[Files]
+ITTD_LOGIC.htm
+ITTD_LOGIC_frmClienList.htm
+ITTD_LOGIC_frmClienList_ClientText.htm
+ITTD_LOGIC_frmClienList_manager.htm
+ITTD_LOGIC_frmCopyCountry.htm
+ITTD_LOGIC_frmCopyCountry_dic.htm
+ITTD_LOGIC_ITTD_COUNTRY_admi.htm
+ITTD_LOGIC_ITTD_COUNTRY_admi_OnRun.htm
+
+[ALIAS]
+ITTD_LOGIC=ITTD_LOGIC.htm
+ITTD_LOGIC_FRMCLIENLIST=ITTD_LOGIC_frmClienList.htm
+ITTD_LOGIC_FRMCLIENLIST_CLIENTTEXT=ITTD_LOGIC_frmClienList_ClientText.htm
+ITTD_LOGIC_FRMCLIENLIST_MANAGER=ITTD_LOGIC_frmClienList_manager.htm
+ITTD_LOGIC_FRMCOPYCOUNTRY=ITTD_LOGIC_frmCopyCountry.htm
+ITTD_LOGIC_FRMCOPYCOUNTRY_DIC=ITTD_LOGIC_frmCopyCountry_dic.htm
+ITTD_LOGIC_ITTD_COUNTRY_ADMI=ITTD_LOGIC_ITTD_COUNTRY_admi.htm
+ITTD_LOGIC_ITTD_COUNTRY_ADMI_ONRUN=ITTD_LOGIC_ITTD_COUNTRY_admi_OnRun.htm
+

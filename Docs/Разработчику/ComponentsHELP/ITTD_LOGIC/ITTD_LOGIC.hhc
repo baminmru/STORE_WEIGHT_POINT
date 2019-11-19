@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTD_LOGIC">
+<param name="Local" value="ITTD_LOGIC.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmClienList">
+<param name="Local" value="ITTD_LOGIC_frmClienList.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ClientText">
+<param name="Local" value="ITTD_LOGIC_frmClienList_ClientText.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="manager">
+<param name="Local" value="ITTD_LOGIC_frmClienList_manager.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="frmCopyCountry">
+<param name="Local" value="ITTD_LOGIC_frmCopyCountry.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="dic">
+<param name="Local" value="ITTD_LOGIC_frmCopyCountry_dic.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ITTD_COUNTRY_admi">
+<param name="Local" value="ITTD_LOGIC_ITTD_COUNTRY_admi.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OnRun">
+<param name="Local" value="ITTD_LOGIC_ITTD_COUNTRY_admi_OnRun.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

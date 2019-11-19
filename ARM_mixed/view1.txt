@@ -1,0 +1,216 @@
+if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[V_viewITTIN_ITTIN_PALET]') and OBJECTPROPERTY(id, N'IsView') = 1)
+drop view [dbo].[V_viewITTIN_ITTIN_PALET]
+GO
+
+SET QUOTED_IDENTIFIER ON 
+GO
+SET ANSI_NULLS ON 
+GO
+
+
+
+CREATE  view V_viewITTIN_ITTIN_PALET as 
+select   ITTIN_PALETID, ITTIN_QLINEID
+, 
+ITTIN_QLINE.VidOtruba 
+ITTIN_QLINE_VidOtruba 
+, 
+ITTIN_QLINE.PackageWeight 
+ITTIN_QLINE_PackageWeight 
+, 
+ITTIN_QLINE.Made_date 
+ITTIN_QLINE_Made_date 
+, 
+ dbo.GetBriefFromXML(ITTIN_QLINE.QRY_NUM) 
+ITTIN_QLINE_QRY_NUM 
+, 
+ITTIN_QLINE.FullPackageWeight 
+ITTIN_QLINE_FullPackageWeight 
+, 
+ dbo.GetBriefFromXML(ITTIN_QLINE.good_id) 
+ITTIN_QLINE_good_id 
+, 
+ITTIN_QLINE.CurValue 
+ITTIN_QLINE_CurValue 
+, 
+ ITTIN_QLINE.PartRef  
+ITTIN_QLINE_PartRef_ID, 
+ dbo.ITTD_PART_BRIEF_F(ITTIN_QLINE.PartRef) 
+ITTIN_QLINE_PartRef 
+, 
+ ITTIN_QLINE.KILL_NUMBER  
+ITTIN_QLINE_KILL_NUMBER_ID, 
+ dbo.ITTD_KILLPLACE_BRIEF_F(ITTIN_QLINE.KILL_NUMBER) 
+ITTIN_QLINE_KILL_NUMBER 
+, 
+ ITTIN_QLINE.made_country  
+ITTIN_QLINE_made_country_ID, 
+ dbo.ITTD_COUNTRY_BRIEF_F(ITTIN_QLINE.made_country) 
+ITTIN_QLINE_made_country 
+, 
+ITTIN_QLINE.articul 
+ITTIN_QLINE_articul 
+, 
+ dbo.GetBriefFromXML(ITTIN_QLINE.LineAtQuery) 
+ITTIN_QLINE_LineAtQuery 
+, 
+ ITTIN_QLINE.Factory  
+ITTIN_QLINE_Factory_ID, 
+ dbo.ITTD_FACTORY_BRIEF_F(ITTIN_QLINE.Factory) 
+ITTIN_QLINE_Factory 
+, 
+ITTIN_QLINE.sequence 
+ITTIN_QLINE_sequence 
+, 
+ ITTIN_QLINE.Navalom  
+ITTIN_QLINE_Navalom_VAL, 
+ case ITTIN_QLINE.Navalom 
+when -1 then 'Да'
+when 0 then 'Нет'
+ end 
+ITTIN_QLINE_Navalom 
+, 
+ITTIN_QLINE.exp_date 
+ITTIN_QLINE_exp_date 
+, 
+ITTIN_QLINE.edizm 
+ITTIN_QLINE_edizm 
+, 
+ITTIN_QLINE.CaliberWeight 
+ITTIN_QLINE_CaliberWeight 
+, 
+ ITTIN_QLINE.IsCalibrated  
+ITTIN_QLINE_IsCalibrated_VAL, 
+ case ITTIN_QLINE.IsCalibrated 
+when -1 then 'Да'
+when 0 then 'Нет'
+ end 
+ITTIN_QLINE_IsCalibrated 
+, 
+ITTIN_DEF.StampStatus 
+ITTIN_DEF_StampStatus 
+, 
+ITTIN_DEF.TTNDate 
+ITTIN_DEF_TTNDate 
+, 
+ITTIN_DEF.Container 
+ITTIN_DEF_Container 
+, 
+ITTIN_DEF.StampNumber 
+ITTIN_DEF_StampNumber 
+, 
+ITTIN_DEF.TTN 
+ITTIN_DEF_TTN 
+, 
+ITTIN_DEF.ProcessDate 
+ITTIN_DEF_ProcessDate 
+, 
+ITTIN_DEF.Supplier 
+ITTIN_DEF_Supplier 
+, 
+ITTIN_DEF.Track_time_in 
+ITTIN_DEF_Track_time_in 
+, 
+ dbo.GetBriefFromXML(ITTIN_DEF.TheClient) 
+ITTIN_DEF_TheClient 
+, 
+ dbo.GetBriefFromXML(ITTIN_DEF.QryCode) 
+ITTIN_DEF_QryCode 
+, 
+ITTIN_DEF.track_time_out 
+ITTIN_DEF_track_time_out 
+, 
+ITTIN_DEF.TranspNumber 
+ITTIN_DEF_TranspNumber 
+, 
+ITTIN_DEF.temp_in_track 
+ITTIN_DEF_temp_in_track 
+, 
+ITTIN_PALET.Stock_ID 
+ITTIN_PALET_Stock_ID 
+, 
+ ITTIN_PALET.made_country  
+ITTIN_PALET_made_country_ID, 
+ dbo.ITTD_COUNTRY_BRIEF_F(ITTIN_PALET.made_country) 
+ITTIN_PALET_made_country 
+, 
+ITTIN_PALET.exp_date 
+ITTIN_PALET_exp_date 
+, 
+ITTIN_PALET.FullPackageWeight 
+ITTIN_PALET_FullPackageWeight 
+, 
+ITTIN_PALET.VidOtruba 
+ITTIN_PALET_VidOtruba 
+, 
+ ITTIN_PALET.Factory  
+ITTIN_PALET_Factory_ID, 
+ dbo.ITTD_FACTORY_BRIEF_F(ITTIN_PALET.Factory) 
+ITTIN_PALET_Factory 
+, 
+ITTIN_PALET.CaliberQuantity 
+ITTIN_PALET_CaliberQuantity 
+, 
+ITTIN_PALET.GoodWithPaletWeight 
+ITTIN_PALET_GoodWithPaletWeight 
+, 
+ ITTIN_PALET.TheNumber  
+ITTIN_PALET_TheNumber_ID, 
+ dbo.ITTPL_DEF_BRIEF_F(ITTIN_PALET.TheNumber) 
+ITTIN_PALET_TheNumber 
+, 
+ ITTIN_PALET.IsBrak  
+ITTIN_PALET_IsBrak_VAL, 
+ case ITTIN_PALET.IsBrak 
+when -1 then 'Да'
+when 0 then 'Нет'
+ end 
+ITTIN_PALET_IsBrak 
+, 
+ITTIN_PALET.PalWeight 
+ITTIN_PALET_PalWeight 
+, 
+ ITTIN_PALET.PartRef  
+ITTIN_PALET_PartRef_ID, 
+ dbo.ITTD_PART_BRIEF_F(ITTIN_PALET.PartRef) 
+ITTIN_PALET_PartRef 
+, 
+ITTIN_PALET.Made_date 
+ITTIN_PALET_Made_date 
+, 
+ITTIN_PALET.BufferZonePlace 
+ITTIN_PALET_BufferZonePlace 
+, 
+ITTIN_PALET.sequence 
+ITTIN_PALET_sequence 
+, 
+ ITTIN_PALET.KILL_NUMBER  
+ITTIN_PALET_KILL_NUMBER_ID, 
+ dbo.ITTD_KILLPLACE_BRIEF_F(ITTIN_PALET.KILL_NUMBER) 
+ITTIN_PALET_KILL_NUMBER 
+, 
+ITTIN_PALET.palet_id 
+ITTIN_PALET_palet_id 
+, 
+ITTIN_PALET.PackageWeight 
+ITTIN_PALET_PackageWeight 
+, ITTIN_QLINE.InstanceID InstanceID 
+, ITTIN_PALET.ITTIN_PALETID ID 
+, 'ITTIN_PALET' VIEWBASE 
+, XXXMYSTATUSXXX.Name StatusName 
+, XXXMYSTATUSXXX.objstatusid INTSANCEStatusID
+,ITTPL_DEF.WEIGHT poddonweight
+,ITTPL_DEF.PrivatePalet
+ from ITTIN_PALET
+ join ITTIN_QLINE on ITTIN_QLINE.ITTIN_QLINEID=ITTIN_PALET.ParentStructRowID 
+ join INSTANCE on ITTIN_QLINE.INSTANCEID=INSTANCE.INSTANCEID
+ left join objstatus XXXMYSTATUSXXX on instance.status=XXXMYSTATUSXXX.objstatusid
+ left join ITTIN_DEF ON ITTIN_DEF.InstanceID=ITTIN_QLINE.InstanceID
+left join ITTPL_DEF on ITTPL_DEF.ITTPL_DEFID =ITTIN_PALET.THENUMBER
+
+GO
+SET QUOTED_IDENTIFIER OFF 
+GO
+SET ANSI_NULLS ON 
+GO
+

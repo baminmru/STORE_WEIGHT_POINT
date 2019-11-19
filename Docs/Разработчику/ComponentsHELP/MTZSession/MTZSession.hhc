@@ -1,0 +1,496 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZSession">
+<param name="Local" value="MTZSession.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DataSource">
+<param name="Local" value="MTZSession_DataSource.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="MTZSession_DataSource_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BeginTrans">
+<param name="Local" value="MTZSession_DataSource_BeginTrans.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckConnection">
+<param name="Local" value="MTZSession_DataSource_CheckConnection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckState">
+<param name="Local" value="MTZSession_DataSource_CheckState.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckState2">
+<param name="Local" value="MTZSession_DataSource_CheckState2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CommitTrans">
+<param name="Local" value="MTZSession_DataSource_CommitTrans.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Execute">
+<param name="Local" value="MTZSession_DataSource_Execute.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExecuteProc">
+<param name="Local" value="MTZSession_DataSource_ExecuteProc.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExecuteRSProc">
+<param name="Local" value="MTZSession_DataSource_ExecuteRSProc.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Init">
+<param name="Local" value="MTZSession_DataSource_Init.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsInTransaction">
+<param name="Local" value="MTZSession_DataSource_IsInTransaction.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsolationLevel">
+<param name="Local" value="MTZSession_DataSource_IsolationLevel.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenProcRecordset">
+<param name="Local" value="MTZSession_DataSource_OpenProcRecordset.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenRecordset">
+<param name="Local" value="MTZSession_DataSource_OpenRecordset.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RollbackTrans">
+<param name="Local" value="MTZSession_DataSource_RollbackTrans.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetConnection">
+<param name="Local" value="MTZSession_DataSource_SetConnection.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Finder">
+<param name="Local" value="MTZSession_Finder.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DropResults">
+<param name="Local" value="MTZSession_Finder_DropResults.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FIND_IDS">
+<param name="Local" value="MTZSession_Finder_FIND_IDS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FullTextSearch">
+<param name="Local" value="MTZSession_Finder_FullTextSearch.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetResults">
+<param name="Local" value="MTZSession_Finder_GetResults.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="QR_AND_QR">
+<param name="Local" value="MTZSession_Finder_QR_AND_QR.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="QR_OR_QR">
+<param name="Local" value="MTZSession_Finder_QR_OR_QR.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowParents">
+<param name="Local" value="MTZSession_Finder_RowParents.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowsToInstances">
+<param name="Local" value="MTZSession_Finder_RowsToInstances.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowsToParents">
+<param name="Local" value="MTZSession_Finder_RowsToParents.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="USDate">
+<param name="Local" value="MTZSession_Finder_USDate.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NumeratorSupport">
+<param name="Local" value="MTZSession_NumeratorSupport.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangeNumber">
+<param name="Local" value="MTZSession_NumeratorSupport_ChangeNumber.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FreeNumValue">
+<param name="Local" value="MTZSession_NumeratorSupport_FreeNumValue.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetNumValue">
+<param name="Local" value="MTZSession_NumeratorSupport_GetNumValue.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MakeItemNumString">
+<param name="Local" value="MTZSession_NumeratorSupport_MakeItemNumString.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MakeNumString">
+<param name="Local" value="MTZSession_NumeratorSupport_MakeNumString.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowParentItem">
+<param name="Local" value="MTZSession_RowParentItem.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PartName">
+<param name="Local" value="MTZSession_RowParentItem_PartName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowID">
+<param name="Local" value="MTZSession_RowParentItem_RowID.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowParentList">
+<param name="Local" value="MTZSession_RowParentList.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Add">
+<param name="Local" value="MTZSession_RowParentList_Add.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count">
+<param name="Local" value="MTZSession_RowParentList_Count.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Item">
+<param name="Local" value="MTZSession_RowParentList_Item.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NewEnum">
+<param name="Local" value="MTZSession_RowParentList_NewEnum.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remove">
+<param name="Local" value="MTZSession_RowParentList_Remove.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Session">
+<param name="Local" value="MTZSession_Session.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application">
+<param name="Local" value="MTZSession_Session_Application.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BginTran">
+<param name="Local" value="MTZSession_Session_BginTran.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CanLock">
+<param name="Local" value="MTZSession_Session_CanLock.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChangePassword">
+<param name="Local" value="MTZSession_Session_ChangePassword.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckConnection">
+<param name="Local" value="MTZSession_Session_CheckConnection.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckRight">
+<param name="Local" value="MTZSession_Session_CheckRight.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CloseClass">
+<param name="Local" value="MTZSession_Session_CloseClass.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CommitTran">
+<param name="Local" value="MTZSession_Session_CommitTran.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Connected">
+<param name="Local" value="MTZSession_Session_Connected.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DeleteInstance">
+<param name="Local" value="MTZSession_Session_DeleteInstance.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DeleteRow">
+<param name="Local" value="MTZSession_Session_DeleteRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DeleteRow2">
+<param name="Local" value="MTZSession_Session_DeleteRow2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="EraseLostNumbers">
+<param name="Local" value="MTZSession_Session_EraseLostNumbers.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exec">
+<param name="Local" value="MTZSession_Session_Exec.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExecRS">
+<param name="Local" value="MTZSession_Session_ExecRS.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FuncPrefix">
+<param name="Local" value="MTZSession_Session_FuncPrefix.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetBrief">
+<param name="Local" value="MTZSession_Session_GetBrief.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetData">
+<param name="Local" value="MTZSession_Session_GetData.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetFuncName">
+<param name="Local" value="MTZSession_Session_GetFuncName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetIDs">
+<param name="Local" value="MTZSession_Session_GetIDs.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetNTUsername">
+<param name="Local" value="MTZSession_Session_GetNTUsername.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetPartViewAlias">
+<param name="Local" value="MTZSession_Session_GetPartViewAlias.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetProcData">
+<param name="Local" value="MTZSession_Session_GetProcData.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetProcName">
+<param name="Local" value="MTZSession_Session_GetProcName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetProvider">
+<param name="Local" value="MTZSession_Session_GetProvider.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetRow">
+<param name="Local" value="MTZSession_Session_GetRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetRows">
+<param name="Local" value="MTZSession_Session_GetRows.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetRowsEx">
+<param name="Local" value="MTZSession_Session_GetRowsEx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetServerTime">
+<param name="Local" value="MTZSession_Session_GetServerTime.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetSessionUserID">
+<param name="Local" value="MTZSession_Session_GetSessionUserID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetTypeViewAlias">
+<param name="Local" value="MTZSession_Session_GetTypeViewAlias.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HasParent">
+<param name="Local" value="MTZSession_Session_HasParent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IntegratedLogin">
+<param name="Local" value="MTZSession_Session_IntegratedLogin.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsDemoLic">
+<param name="Local" value="MTZSession_Session_IsDemoLic.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsDescendant">
+<param name="Local" value="MTZSession_Session_IsDescendant.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsLocked">
+<param name="Local" value="MTZSession_Session_IsLocked.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsORACLE">
+<param name="Local" value="MTZSession_Session_IsORACLE.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsRowExists">
+<param name="Local" value="MTZSession_Session_IsRowExists.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IsWorkLic">
+<param name="Local" value="MTZSession_Session_IsWorkLic.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="KernelPrefix">
+<param name="Local" value="MTZSession_Session_KernelPrefix.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Language">
+<param name="Local" value="MTZSession_Session_Language.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockResource">
+<param name="Local" value="MTZSession_Session_LockResource.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockSessionID">
+<param name="Local" value="MTZSession_Session_LockSessionID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LockUserID">
+<param name="Local" value="MTZSession_Session_LockUserID.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logger">
+<param name="Local" value="MTZSession_Session_Logger.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Login">
+<param name="Local" value="MTZSession_Session_Login.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logout">
+<param name="Local" value="MTZSession_Session_Logout.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MTZTempPath">
+<param name="Local" value="MTZSession_Session_MTZTempPath.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NewInstance">
+<param name="Local" value="MTZSession_Session_NewInstance.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parent">
+<param name="Local" value="MTZSession_Session_Parent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProcPrefix">
+<param name="Local" value="MTZSession_Session_ProcPrefix.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Propagate">
+<param name="Local" value="MTZSession_Session_Propagate.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RollbackTran">
+<param name="Local" value="MTZSession_Session_RollbackTran.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveRow">
+<param name="Local" value="MTZSession_Session_SaveRow.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SaveRow2">
+<param name="Local" value="MTZSession_Session_SaveRow2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Secure">
+<param name="Local" value="MTZSession_Session_Secure.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ServerDBName">
+<param name="Local" value="MTZSession_Session_ServerDBName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ServerRootDBName">
+<param name="Local" value="MTZSession_Session_ServerRootDBName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ServerUserName">
+<param name="Local" value="MTZSession_Session_ServerUserName.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ServerUserPassword">
+<param name="Local" value="MTZSession_Session_ServerUserPassword.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="sessionid">
+<param name="Local" value="MTZSession_Session_sessionid.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SessionTouch">
+<param name="Local" value="MTZSession_Session_SessionTouch.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetDefaultSecurityStyle">
+<param name="Local" value="MTZSession_Session_SetDefaultSecurityStyle.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetLic">
+<param name="Local" value="MTZSession_Session_SetLic.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetOwner">
+<param name="Local" value="MTZSession_Session_SetOwner.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SetStatus">
+<param name="Local" value="MTZSession_Session_SetStatus.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Site">
+<param name="Local" value="MTZSession_Session_Site.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SymbolAt">
+<param name="Local" value="MTZSession_Session_SymbolAt.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TableParent">
+<param name="Local" value="MTZSession_Session_TableParent.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TableToType">
+<param name="Local" value="MTZSession_Session_TableToType.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TheFinder">
+<param name="Local" value="MTZSession_Session_TheFinder.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UnLockResource">
+<param name="Local" value="MTZSession_Session_UnLockResource.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY>
+</HTML>

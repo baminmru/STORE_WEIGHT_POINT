@@ -1,0 +1,114 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="MTZManager"><param name="Name" value="MTZManager"><param name="Local" value="MTZManager.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Main"><param name="Name" value="MTZManager.Main"><param name="Local" value="MTZManager_Main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="AddCustomObjects"><param name="Name" value="MTZManager.Main.AddCustomObjects"><param name="Local" value="MTZManager_Main_AddCustomObjects.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ClearBuffer"><param name="Name" value="MTZManager.Main.ClearBuffer"><param name="Local" value="MTZManager_Main_ClearBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CloseClass"><param name="Name" value="MTZManager.Main.CloseClass"><param name="Local" value="MTZManager_Main_CloseClass.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CurSite"><param name="Name" value="MTZManager.Main.CurSite"><param name="Local" value="MTZManager_Main_CurSite.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteInstance"><param name="Name" value="MTZManager.Main.DeleteInstance"><param name="Local" value="MTZManager_Main_DeleteInstance.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FindInstanceByRow"><param name="Name" value="MTZManager.Main.FindInstanceByRow"><param name="Local" value="MTZManager_Main_FindInstanceByRow.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormCount"><param name="Name" value="MTZManager.Main.FormCount"><param name="Local" value="MTZManager_Main_FormCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FreeAllInstanses"><param name="Name" value="MTZManager.Main.FreeAllInstanses"><param name="Local" value="MTZManager_Main_FreeAllInstanses.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FreeInstanceObject"><param name="Name" value="MTZManager.Main.FreeInstanceObject"><param name="Local" value="MTZManager_Main_FreeInstanceObject.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetBuffer"><param name="Name" value="MTZManager.Main.GetBuffer"><param name="Local" value="MTZManager_Main_GetBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetCustomObjects"><param name="Name" value="MTZManager.Main.GetCustomObjects"><param name="Local" value="MTZManager_Main_GetCustomObjects.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFinderDialog"><param name="Name" value="MTZManager.Main.GetFinderDialog"><param name="Local" value="MTZManager_Main_GetFinderDialog.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFullTextDialog"><param name="Name" value="MTZManager.Main.GetFullTextDialog"><param name="Local" value="MTZManager_Main_GetFullTextDialog.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetIDFromXMLField"><param name="Name" value="MTZManager.Main.GetIDFromXMLField"><param name="Local" value="MTZManager_Main_GetIDFromXMLField.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetInstanceGUI"><param name="Name" value="MTZManager.Main.GetInstanceGUI"><param name="Local" value="MTZManager_Main_GetInstanceGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetInstanceObject"><param name="Name" value="MTZManager.Main.GetInstanceObject"><param name="Local" value="MTZManager_Main_GetInstanceObject.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetInstanceObjectFromXML"><param name="Name" value="MTZManager.Main.GetInstanceObjectFromXML"><param name="Local" value="MTZManager_Main_GetInstanceObjectFromXML.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetNewObject"><param name="Name" value="MTZManager.Main.GetNewObject"><param name="Local" value="MTZManager_Main_GetNewObject.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetObjectListDialog"><param name="Name" value="MTZManager.Main.GetObjectListDialog"><param name="Local" value="MTZManager_Main_GetObjectListDialog.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetObjectListDialog2"><param name="Name" value="MTZManager.Main.GetObjectListDialog2"><param name="Local" value="MTZManager_Main_GetObjectListDialog2.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetObjectListDialogEx"><param name="Name" value="MTZManager.Main.GetObjectListDialogEx"><param name="Local" value="MTZManager_Main_GetObjectListDialogEx.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetObjectListDialogEx3"><param name="Name" value="MTZManager.Main.GetObjectListDialogEx3"><param name="Local" value="MTZManager_Main_GetObjectListDialogEx3.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetReferenceDialog"><param name="Name" value="MTZManager.Main.GetReferenceDialog"><param name="Local" value="MTZManager_Main_GetReferenceDialog.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetReferenceDialogEx"><param name="Name" value="MTZManager.Main.GetReferenceDialogEx"><param name="Local" value="MTZManager_Main_GetReferenceDialogEx.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetReferenceDialogEx2"><param name="Name" value="MTZManager.Main.GetReferenceDialogEx2"><param name="Local" value="MTZManager_Main_GetReferenceDialogEx2.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetReferenceDialogEx3"><param name="Name" value="MTZManager.Main.GetReferenceDialogEx3"><param name="Local" value="MTZManager_Main_GetReferenceDialogEx3.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetSession"><param name="Name" value="MTZManager.Main.GetSession"><param name="Local" value="MTZManager_Main_GetSession.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetSQLDataDialog"><param name="Name" value="MTZManager.Main.GetSQLDataDialog"><param name="Local" value="MTZManager_Main_GetSQLDataDialog.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="HideAditionalButtons"><param name="Name" value="MTZManager.Main.HideAditionalButtons"><param name="Local" value="MTZManager_Main_HideAditionalButtons.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ListInstances"><param name="Name" value="MTZManager.Main.ListInstances"><param name="Local" value="MTZManager_Main_ListInstances.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="LockInstanceObject"><param name="Name" value="MTZManager.Main.LockInstanceObject"><param name="Local" value="MTZManager_Main_LockInstanceObject.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="NewInstance"><param name="Name" value="MTZManager.Main.NewInstance"><param name="Local" value="MTZManager_Main_NewInstance.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="RegisterGUI"><param name="Name" value="MTZManager.Main.RegisterGUI"><param name="Local" value="MTZManager_Main_RegisterGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveCustomObjects"><param name="Name" value="MTZManager.Main.RemoveCustomObjects"><param name="Local" value="MTZManager_Main_RemoveCustomObjects.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ServerDBName"><param name="Name" value="MTZManager.Main.ServerDBName"><param name="Local" value="MTZManager_Main_ServerDBName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ServerRootDBName"><param name="Name" value="MTZManager.Main.ServerRootDBName"><param name="Local" value="MTZManager_Main_ServerRootDBName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ServerUserName"><param name="Name" value="MTZManager.Main.ServerUserName"><param name="Local" value="MTZManager_Main_ServerUserName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ServerUserPassword"><param name="Name" value="MTZManager.Main.ServerUserPassword"><param name="Local" value="MTZManager_Main_ServerUserPassword.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SetBuffer"><param name="Name" value="MTZManager.Main.SetBuffer"><param name="Local" value="MTZManager_Main_SetBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ShowSecurityDialog"><param name="Name" value="MTZManager.Main.ShowSecurityDialog"><param name="Local" value="MTZManager_Main_ShowSecurityDialog.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="StoreTempFileData"><param name="Name" value="MTZManager.Main.StoreTempFileData"><param name="Local" value="MTZManager_Main_StoreTempFileData.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="TableToType"><param name="Name" value="MTZManager.Main.TableToType"><param name="Local" value="MTZManager_Main_TableToType.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="UnLockInstanceObject"><param name="Name" value="MTZManager.Main.UnLockInstanceObject"><param name="Local" value="MTZManager_Main_UnLockInstanceObject.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCode"><param name="Name" value="MTZManager.Main.VerifyCode"><param name="Local" value="MTZManager_Main_VerifyCode.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="TempFileInfo"><param name="Name" value="MTZManager.TempFileInfo"><param name="Local" value="MTZManager_TempFileInfo.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PartName"><param name="Name" value="MTZManager.TempFileInfo.PartName"><param name="Local" value="MTZManager_TempFileInfo_PartName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PathToFile"><param name="Name" value="MTZManager.TempFileInfo.PathToFile"><param name="Local" value="MTZManager_TempFileInfo_PathToFile.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="RowID"><param name="Name" value="MTZManager.TempFileInfo.RowID"><param name="Local" value="MTZManager_TempFileInfo_RowID.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,132 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 > Индекс (Index)</H1>
+
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="STDNumeratorGUI"><param name="Name" value="STDNumeratorGUI"><param name="Local" value="STDNumeratorGUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ctl_main"><param name="Name" value="STDNumeratorGUI.ctl_main"><param name="Local" value="STDNumeratorGUI_ctl_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckStatusMenu"><param name="Name" value="STDNumeratorGUI.ctl_main.CheckStatusMenu"><param name="Local" value="STDNumeratorGUI_ctl_main_CheckStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Host"><param name="Name" value="STDNumeratorGUI.ctl_main.Host"><param name="Local" value="STDNumeratorGUI_ctl_main_Host.htm"><param name="Name" value="STDNumeratorGUI.frm_main.Host"><param name="Local" value="STDNumeratorGUI_frm_main_Host.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Init"><param name="Name" value="STDNumeratorGUI.ctl_main.Init"><param name="Local" value="STDNumeratorGUI_ctl_main_Init.htm"><param name="Name" value="STDNumeratorGUI.frm_main.Init"><param name="Local" value="STDNumeratorGUI_frm_main_Init.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsChanged"><param name="Name" value="STDNumeratorGUI.ctl_main.IsChanged"><param name="Local" value="STDNumeratorGUI_ctl_main_IsChanged.htm"><param name="Name" value="STDNumeratorGUI.Num_head.IsChanged"><param name="Local" value="STDNumeratorGUI_Num_head_IsChanged.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.IsChanged"><param name="Local" value="STDNumeratorGUI_Num_Values_IsChanged.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.IsChanged"><param name="Local" value="STDNumeratorGUI_Num_zones_IsChanged.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.IsChanged"><param name="Local" value="STDNumeratorGUI_vpnNum_head__IsChanged.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.IsChanged"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__IsChanged.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsOK"><param name="Name" value="STDNumeratorGUI.ctl_main.IsOK"><param name="Local" value="STDNumeratorGUI_ctl_main_IsOK.htm"><param name="Name" value="STDNumeratorGUI.Num_head.IsOK"><param name="Local" value="STDNumeratorGUI_Num_head_IsOK.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.IsOK"><param name="Local" value="STDNumeratorGUI_Num_Values_IsOK.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.IsOK"><param name="Local" value="STDNumeratorGUI_Num_zones_IsOK.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.IsOK"><param name="Local" value="STDNumeratorGUI_vpnNum_head__IsOK.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.IsOK"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__IsOK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Name" value="STDNumeratorGUI.ctl_main.item"><param name="Local" value="STDNumeratorGUI_ctl_main_item.htm"><param name="Name" value="STDNumeratorGUI.frm_main.item"><param name="Local" value="STDNumeratorGUI_frm_main_item.htm"><param name="Name" value="STDNumeratorGUI.frmNum_head_.item"><param name="Local" value="STDNumeratorGUI_frmNum_head__item.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.item"><param name="Local" value="STDNumeratorGUI_frmNum_Values__item.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.item"><param name="Local" value="STDNumeratorGUI_frmNum_zones__item.htm"><param name="Name" value="STDNumeratorGUI.Num_head.item"><param name="Local" value="STDNumeratorGUI_Num_head_item.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.item"><param name="Local" value="STDNumeratorGUI_Num_Values_item.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.item"><param name="Local" value="STDNumeratorGUI_Num_zones_item.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.item"><param name="Local" value="STDNumeratorGUI_vpnNum_head__item.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.item"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__item.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ModalMode"><param name="Name" value="STDNumeratorGUI.ctl_main.ModalMode"><param name="Local" value="STDNumeratorGUI_ctl_main_ModalMode.htm"><param name="Name" value="STDNumeratorGUI.frm_main.ModalMode"><param name="Local" value="STDNumeratorGUI_frm_main_ModalMode.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.ModalMode"><param name="Local" value="STDNumeratorGUI_vpnNum_head__ModalMode.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.ModalMode"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__ModalMode.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnSave"><param name="Name" value="STDNumeratorGUI.ctl_main.OnSave"><param name="Local" value="STDNumeratorGUI_ctl_main_OnSave.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.OnSave"><param name="Local" value="STDNumeratorGUI_vpnNum_head__OnSave.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.OnSave"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__OnSave.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ParentForm"><param name="Name" value="STDNumeratorGUI.ctl_main.ParentForm"><param name="Local" value="STDNumeratorGUI_ctl_main_ParentForm.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.ParentForm"><param name="Local" value="STDNumeratorGUI_vpnNum_head__ParentForm.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.ParentForm"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__ParentForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedHeight"><param name="Name" value="STDNumeratorGUI.ctl_main.PrefferedHeight"><param name="Local" value="STDNumeratorGUI_ctl_main_PrefferedHeight.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PrefferedWidth"><param name="Name" value="STDNumeratorGUI.ctl_main.PrefferedWidth"><param name="Local" value="STDNumeratorGUI_ctl_main_PrefferedWidth.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SetupStatusMenu"><param name="Name" value="STDNumeratorGUI.ctl_main.SetupStatusMenu"><param name="Local" value="STDNumeratorGUI_ctl_main_SetupStatusMenu.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="StatusMenuCount"><param name="Name" value="STDNumeratorGUI.ctl_main.StatusMenuCount"><param name="Local" value="STDNumeratorGUI_ctl_main_StatusMenuCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frm_main"><param name="Name" value="STDNumeratorGUI.frm_main"><param name="Local" value="STDNumeratorGUI_frm_main.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BeforeChangeStatus"><param name="Name" value="STDNumeratorGUI.frm_main.BeforeChangeStatus"><param name="Local" value="STDNumeratorGUI_frm_main_BeforeChangeStatus.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsNew"><param name="Name" value="STDNumeratorGUI.frm_main.CheckIsNew"><param name="Local" value="STDNumeratorGUI_frm_main_CheckIsNew.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CheckIsOk"><param name="Name" value="STDNumeratorGUI.frm_main.CheckIsOk"><param name="Local" value="STDNumeratorGUI_frm_main_CheckIsOk.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmNum_head_"><param name="Name" value="STDNumeratorGUI.frmNum_head_"><param name="Local" value="STDNumeratorGUI_frmNum_head_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdCancel_Click"><param name="Name" value="STDNumeratorGUI.frmNum_head_.cmdCancel_Click"><param name="Local" value="STDNumeratorGUI_frmNum_head__cmdCancel_Click.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.cmdCancel_Click"><param name="Local" value="STDNumeratorGUI_frmNum_Values__cmdCancel_Click.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.cmdCancel_Click"><param name="Local" value="STDNumeratorGUI_frmNum_zones__cmdCancel_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="cmdOK_Click"><param name="Name" value="STDNumeratorGUI.frmNum_head_.cmdOK_Click"><param name="Local" value="STDNumeratorGUI_frmNum_head__cmdOK_Click.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.cmdOK_Click"><param name="Local" value="STDNumeratorGUI_frmNum_Values__cmdOK_Click.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.cmdOK_Click"><param name="Local" value="STDNumeratorGUI_frmNum_zones__cmdOK_Click.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Activate"><param name="Name" value="STDNumeratorGUI.frmNum_head_.Form_Activate"><param name="Local" value="STDNumeratorGUI_frmNum_head__Form_Activate.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.Form_Activate"><param name="Local" value="STDNumeratorGUI_frmNum_Values__Form_Activate.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.Form_Activate"><param name="Local" value="STDNumeratorGUI_frmNum_zones__Form_Activate.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="form_DblCLick"><param name="Name" value="STDNumeratorGUI.frmNum_head_.form_DblCLick"><param name="Local" value="STDNumeratorGUI_frmNum_head__form_DblCLick.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.form_DblCLick"><param name="Local" value="STDNumeratorGUI_frmNum_Values__form_DblCLick.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.form_DblCLick"><param name="Local" value="STDNumeratorGUI_frmNum_zones__form_DblCLick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Load"><param name="Name" value="STDNumeratorGUI.frmNum_head_.Form_Load"><param name="Local" value="STDNumeratorGUI_frmNum_head__Form_Load.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.Form_Load"><param name="Local" value="STDNumeratorGUI_frmNum_Values__Form_Load.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.Form_Load"><param name="Local" value="STDNumeratorGUI_frmNum_zones__Form_Load.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Resize"><param name="Name" value="STDNumeratorGUI.frmNum_head_.Form_Resize"><param name="Local" value="STDNumeratorGUI_frmNum_head__Form_Resize.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.Form_Resize"><param name="Local" value="STDNumeratorGUI_frmNum_Values__Form_Resize.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.Form_Resize"><param name="Local" value="STDNumeratorGUI_frmNum_zones__Form_Resize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Form_Unload"><param name="Name" value="STDNumeratorGUI.frmNum_head_.Form_Unload"><param name="Local" value="STDNumeratorGUI_frmNum_head__Form_Unload.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.Form_Unload"><param name="Local" value="STDNumeratorGUI_frmNum_Values__Form_Unload.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.Form_Unload"><param name="Local" value="STDNumeratorGUI_frmNum_zones__Form_Unload.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="NotFirstTime"><param name="Name" value="STDNumeratorGUI.frmNum_head_.NotFirstTime"><param name="Local" value="STDNumeratorGUI_frmNum_head__NotFirstTime.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.NotFirstTime"><param name="Local" value="STDNumeratorGUI_frmNum_Values__NotFirstTime.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.NotFirstTime"><param name="Local" value="STDNumeratorGUI_frmNum_zones__NotFirstTime.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OK"><param name="Name" value="STDNumeratorGUI.frmNum_head_.OK"><param name="Local" value="STDNumeratorGUI_frmNum_head__OK.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.OK"><param name="Local" value="STDNumeratorGUI_frmNum_Values__OK.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.OK"><param name="Local" value="STDNumeratorGUI_frmNum_zones__OK.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnInit"><param name="Name" value="STDNumeratorGUI.frmNum_head_.OnInit"><param name="Local" value="STDNumeratorGUI_frmNum_head__OnInit.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.OnInit"><param name="Local" value="STDNumeratorGUI_frmNum_Values__OnInit.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.OnInit"><param name="Local" value="STDNumeratorGUI_frmNum_zones__OnInit.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.OnInit"><param name="Local" value="STDNumeratorGUI_vpnNum_head__OnInit.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.OnInit"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__OnInit.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="panel_Changed"><param name="Name" value="STDNumeratorGUI.frmNum_head_.panel_Changed"><param name="Local" value="STDNumeratorGUI_frmNum_head__panel_Changed.htm"><param name="Name" value="STDNumeratorGUI.frmNum_Values_.panel_Changed"><param name="Local" value="STDNumeratorGUI_frmNum_Values__panel_Changed.htm"><param name="Name" value="STDNumeratorGUI.frmNum_zones_.panel_Changed"><param name="Local" value="STDNumeratorGUI_frmNum_zones__panel_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmNum_Values_"><param name="Name" value="STDNumeratorGUI.frmNum_Values_"><param name="Local" value="STDNumeratorGUI_frmNum_Values_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="frmNum_zones_"><param name="Name" value="STDNumeratorGUI.frmNum_zones_"><param name="Local" value="STDNumeratorGUI_frmNum_zones_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUI"><param name="Name" value="STDNumeratorGUI.GUI"><param name="Local" value="STDNumeratorGUI_GUI.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CloseClass"><param name="Name" value="STDNumeratorGUI.GUI.CloseClass"><param name="Local" value="STDNumeratorGUI_GUI_CloseClass.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.CloseClass"><param name="Local" value="STDNumeratorGUI_vpnNum_head__CloseClass.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.CloseClass"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__CloseClass.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="EraseForm"><param name="Name" value="STDNumeratorGUI.GUI.EraseForm"><param name="Local" value="STDNumeratorGUI_GUI_EraseForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormCount"><param name="Name" value="STDNumeratorGUI.GUI.FormCount"><param name="Local" value="STDNumeratorGUI_GUI_FormCount.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GUIPath"><param name="Name" value="STDNumeratorGUI.GUI.GUIPath"><param name="Local" value="STDNumeratorGUI_GUI_GUIPath.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="IsModal"><param name="Name" value="STDNumeratorGUI.GUI.IsModal"><param name="Local" value="STDNumeratorGUI_GUI_IsModal.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Name" value="STDNumeratorGUI.GUI.Show"><param name="Local" value="STDNumeratorGUI_GUI_Show.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ShowAddForm"><param name="Name" value="STDNumeratorGUI.GUI.ShowAddForm"><param name="Local" value="STDNumeratorGUI_GUI_ShowAddForm.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Num_head"><param name="Name" value="STDNumeratorGUI.Num_head"><param name="Local" value="STDNumeratorGUI_Num_head.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Changed"><param name="Name" value="STDNumeratorGUI.Num_head.Changed"><param name="Local" value="STDNumeratorGUI_Num_head_Changed.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.Changed"><param name="Local" value="STDNumeratorGUI_Num_Values_Changed.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.Changed"><param name="Local" value="STDNumeratorGUI_Num_zones_Changed.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Customize"><param name="Name" value="STDNumeratorGUI.Num_head.Customize"><param name="Local" value="STDNumeratorGUI_Num_head_Customize.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.Customize"><param name="Local" value="STDNumeratorGUI_Num_Values_Customize.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.Customize"><param name="Local" value="STDNumeratorGUI_Num_zones_Customize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Enabled"><param name="Name" value="STDNumeratorGUI.Num_head.Enabled"><param name="Local" value="STDNumeratorGUI_Num_head_Enabled.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.Enabled"><param name="Local" value="STDNumeratorGUI_Num_Values_Enabled.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.Enabled"><param name="Local" value="STDNumeratorGUI_Num_zones_Enabled.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="InitPanel"><param name="Name" value="STDNumeratorGUI.Num_head.InitPanel"><param name="Local" value="STDNumeratorGUI_Num_head_InitPanel.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.InitPanel"><param name="Local" value="STDNumeratorGUI_Num_Values_InitPanel.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.InitPanel"><param name="Local" value="STDNumeratorGUI_Num_zones_InitPanel.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalSize"><param name="Name" value="STDNumeratorGUI.Num_head.OptimalSize"><param name="Local" value="STDNumeratorGUI_Num_head_OptimalSize.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.OptimalSize"><param name="Local" value="STDNumeratorGUI_Num_Values_OptimalSize.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.OptimalSize"><param name="Local" value="STDNumeratorGUI_Num_zones_OptimalSize.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OptimalY"><param name="Name" value="STDNumeratorGUI.Num_head.OptimalY"><param name="Local" value="STDNumeratorGUI_Num_head_OptimalY.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.OptimalY"><param name="Local" value="STDNumeratorGUI_Num_Values_OptimalY.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.OptimalY"><param name="Local" value="STDNumeratorGUI_Num_zones_OptimalY.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PanelCustomisationString"><param name="Name" value="STDNumeratorGUI.Num_head.PanelCustomisationString"><param name="Local" value="STDNumeratorGUI_Num_head_PanelCustomisationString.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.PanelCustomisationString"><param name="Local" value="STDNumeratorGUI_Num_Values_PanelCustomisationString.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.PanelCustomisationString"><param name="Local" value="STDNumeratorGUI_Num_zones_PanelCustomisationString.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Name" value="STDNumeratorGUI.Num_head.Save"><param name="Local" value="STDNumeratorGUI_Num_head_Save.htm"><param name="Name" value="STDNumeratorGUI.Num_Values.Save"><param name="Local" value="STDNumeratorGUI_Num_Values_Save.htm"><param name="Name" value="STDNumeratorGUI.Num_zones.Save"><param name="Local" value="STDNumeratorGUI_Num_zones_Save.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Num_Values"><param name="Name" value="STDNumeratorGUI.Num_Values"><param name="Local" value="STDNumeratorGUI_Num_Values.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Num_zones"><param name="Name" value="STDNumeratorGUI.Num_zones"><param name="Local" value="STDNumeratorGUI_Num_zones.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Util"><param name="Name" value="STDNumeratorGUI.Util"><param name="Local" value="STDNumeratorGUI_Util.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FormByName"><param name="Name" value="STDNumeratorGUI.Util.FormByName"><param name="Local" value="STDNumeratorGUI_Util_FormByName.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromBuffer"><param name="Name" value="STDNumeratorGUI.Util.GetFromBuffer"><param name="Local" value="STDNumeratorGUI_Util_GetFromBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="SaveToBuffer"><param name="Name" value="STDNumeratorGUI.Util.SaveToBuffer"><param name="Local" value="STDNumeratorGUI_Util_SaveToBuffer.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnNum_head_"><param name="Name" value="STDNumeratorGUI.vpnNum_head_"><param name="Local" value="STDNumeratorGUI_vpnNum_head_.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="OnClick"><param name="Name" value="STDNumeratorGUI.vpnNum_head_.OnClick"><param name="Local" value="STDNumeratorGUI_vpnNum_head__OnClick.htm"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_.OnClick"><param name="Local" value="STDNumeratorGUI_vpnNum_zones__OnClick.htm"></OBJECT>
+
+<LI><OBJECT type="text/sitemap"><param name="Name" value="vpnNum_zones_"><param name="Name" value="STDNumeratorGUI.vpnNum_zones_"><param name="Local" value="STDNumeratorGUI_vpnNum_zones_.htm"></OBJECT>
+
+</UL>
+</BODY>
+</HTML>
